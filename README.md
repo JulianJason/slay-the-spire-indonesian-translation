@@ -1,1 +1,24 @@
-# slay-the-spire-indonesian-translation
+# (Soon-to-be) Official Slay The Spire Indonesian translation archives
+
+
+### Rules and Conventions (TODO)
+
+Translation files are in the form of `JSON` files and 
+
+Mechanics translation
+
+|  English | Indonesian  |
+|---|---|
+| **Damage**  | Damage  |
+|  **HP** |  HP |
+| **Curse**  | Kutukan  |
+| **Strength** | Daya |
+| **Dexterity** | Ketangkasan |
+
+### Contributing Guidelines
+
+This project is crown-sourced and welcomes anyone who is willing to help.
+
+Most recent translation are located in the `current` folder.
+Feel free to fork and make a pull request to start contributing. 
+
