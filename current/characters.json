@@ -45,6 +45,16 @@
       "~*YAWN*~",
       "Aku suka emas.",
       "Warna favoritku biru. NL Kamu?"
+    ],
+    "OPTIONS": [
+      "Bagaimana aku bisa ada disini? NL Entah.",
+      "Kesempatan terakhir buat beli sesuatu! NL ~*wink*~ ~*wink*~",
+      "..... NL .... NL .........",
+      "Aku orang kucing.",
+      "Santai saja. NL Santai saja.",
+      "Bukankah ini @menarik!?@",
+      "Aku dulu sepertimu.",
+      "Mau naik?"
     ]
   },
   "Neow Event": {
@@ -161,6 +171,14 @@
     ],
     "TEXT": [
       "Pemburu mematikan dari daratan berkabut. NL Membasmi musuh dengan pisau belati dan racun."
+    ]
+  },
+  "PostCreditsNeow": {
+    "NAMES": [],
+    "TEXT": [
+      "Sekarang... apa..? NL ..sudahkah ini... selesai....?",
+      "...Spire tidur.....",
+      "..dan begitulah...... juga... NL ....aku......"
     ]
   }
 }
