@@ -246,7 +246,7 @@
       "[Terima] #gMenerima #g5 Arwah. #rKehilangan #r",
       "% #rMax #rHP.",
       "[Tolak]",
-      "",
+      "[Terima] #gMenerima #g3 Arwah. #rKehilangan #r",
       "",
       "[Pergi]"
     ]
@@ -862,7 +862,7 @@
       "\"Bagus sekali! Aku berasa sangat haus.\" NL #b~Glup~ #b~glup~ #b~glup~ NL NL Dia meminum seisi ramuan dengan satu kali tegukan @burp.@",
       "\"Indah sekali! Ini akan sangat berguna jika aku bertemu dengan #rpenjahat #rmemakai #rtopeng.\"",
       "\"Patut dicontoh! Aku harus mempelajari tentang ini di ruanganku.\"",
-      "\" @Aaaaagghh!!@ Terkadang, kamu adalah orang yang buruk! NL Dia melarikan diri.",
+      "\" @Aaaaagghh!!@ Terkadang, kamu adalah orang yang buruk!\" NL Dia melarikan diri.",
       "  NL NL Dia menggeledah kantungnya... NL \"Ini, lihat apa yang aku punya untukmu hari ini! Ambil! Ambil!\""
     ],
     "OPTIONS": [
