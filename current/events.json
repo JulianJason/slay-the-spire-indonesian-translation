@@ -523,7 +523,7 @@
     ]
   },
   "Spire Heart": {
-    "NAME": "Spire Heart",
+    "NAME": "Jantung Spire",
     "DESCRIPTIONS": [
       "@tu-thump@ ... @tu-thump@ ... @tu-thump@ ... NL Sebuah denyut dalam yang mengerikan dapat dirasakan di seluruh ruangan... NL Apakah ini #r~jantung~ dari Spire? Sumber kejahatan ini?",
       "Kamu memberi #b",
@@ -535,12 +535,17 @@
       " NL Jantung itu berdetak semakin keras saat #y~kesadaranmu~ #y~memudar...~",
       "NL Kamu mempersiapkan pedangmu...",
       "NL Kamu menyiapkan pisaumu...",
-      "NL Kamu mengisi intimu sepenuhnya..."
+      "NL Kamu mengisi intimu sepenuhnya...",
+	  "Kamu bertanya pada dirimu, ~\"Apakah~ ~aku~ ~pernah~ ~kesini~ ~sebelumnya?\"~",
+	  " NL Jantung itu berdetak semakin keras saat #p~kesadaranmu~ #p~mulai~ #p~memudar...~",
+	  " NL Ledakan #y@energi@ tiba-tiba muncul dari dalam dirimu, #b@menyentak@ membangunkanmu.",
+	  " NL Jantung itu #gkabur ke atas! Sebuah pintu besar terungkap di tempat ia berada."
     ],
     "OPTIONS": [
       "[Lanjut]",
       "[Serang] #b???",
-      "[Tidur]"
+      "[Tidur]",
+      "[Dekati Pintu]"
     ]
   },
   "The Cleric": {
