@@ -426,9 +426,9 @@
     "NAME": "Lentera",
     "FLAVOR": "Lentera seram yang hanya menerangi penggunanya.",
     "DESCRIPTIONS": [
-      "Dapatkan ",
+      "Mulai tiap pertarungan dengan tambahan ",
       "[E] ",
-      "pada giliran pertama di tiap pertarungan."
+      ""
     ]
   },
   "Lee's Waffle": {
@@ -1309,7 +1309,7 @@
     "NAME": "Serangga Terawetkan",
     "FLAVOR": "Serangganya seperti menciptakan aura menyusut yang menyasar khususnya musuh besar.",
     "DESCRIPTIONS": [
-      "Musuh di ruang Elit mempunyai #b",
+      "Musuh di pertarungan Elit mempunyai #b",
       "% kurang HP."
     ]
   },
