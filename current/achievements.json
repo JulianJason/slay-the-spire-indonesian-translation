@@ -41,7 +41,11 @@
       "Energi Terlalu Overrated",
       "Hari Keberuntunganku",
       "Sang Sesaat",
-      "Kenaikan 20"
+      "Kenaikan 20",
+      "Rubi+",
+      "Zamrud+",
+      "Safir+",
+      "Akhir?"
     ],
     "TEXT": [
       "Menangkan sebuah pertarungan dengan sisa 1 HP.",
@@ -84,7 +88,11 @@
       "Mainkan 10 atau lebih kartu 0 energi di satu giliran.",
       "Menangkan Dakian Harian.",
       "Kalahkan Sang Sesaat sebelum dia menghilang.",
-      "Selesaikan Kenaikan level 20."
+      "Selesaikan Kenaikan level 20.",
+      "Selesaikan Akhir dengan Ironclad.",
+      "Selesaikan Akhir dengan Silent.",
+      "Selesaikan Akhir dengan Defect.",
+      "Selesaikan Akhir dengan Ironclad, Silent, dan Defect."
     ]
   },
   "CharStat": {
