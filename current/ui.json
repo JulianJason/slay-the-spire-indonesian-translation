@@ -377,12 +377,12 @@
       "Menu Utama",
       "Coba Lagi",
       "Lanjut",
-      "Kunci",
-      "Kunci Tersisa: ",
-      "Kunci Tersisa: ",
+      "Segel",
+      "Segel Tersisa: ",
+      "Segel Tersisa: ",
       "Musuh Dikalahkan",
       "Elit Dibunuh",
-      "Emas Tidak Terpakai",
+      "Emas Tersisa",
       "Bonus HP"
     ],
     "EXTRA_TEXT": [
@@ -882,6 +882,12 @@
       "letakkan di atas dek ambil"
     ]
   },
+  "Recall Option": {
+    "TEXT": [
+      "Mengingat",
+      "Memperoleh Kunci Rubi."
+    ]
+  },
   "RecycleAction": {
     "TEXT": [
       "Hangus"
@@ -948,7 +954,12 @@
       " Emas",
       "Tambah satu kartu ke dek",
       "",
-      "Pilih satu Kartu"
+      "Pilih satu Kartu",
+      "Kunci Zamrud",
+      "Kunci Safir",
+      "Terikat",
+      "Mengambil ini akan menyingkirkan ",
+      "."
     ]
   },
   "RunHistoryPathNodes": {
@@ -1030,7 +1041,8 @@
       "Yang Terpilih dan Pemuja",
       "(Bekas) Flame Bruiser",
       "(Bekas) Budak dan Parasit",
-      "(Bekas) Laroke dan Mystik"
+      "(Bekas) Laroke dan Mystik",
+	  "Tameng dan Tombak"
     ]
   },
   "RunHistoryScreen": {
@@ -1120,7 +1132,8 @@
       "Aku #rTerjerat! NL Tidak bisa memainkan Serangan",
       "Tidak cukup #rEnergi.",
       "Tidak cukup #rCharge.",
-      "Aku tidak bisa memainkan NL kartu ini."
+      "Aku tidak bisa memainkan NL kartu ini.",
+	  "Gambar Beta"
     ]
   },
   "SingleViewRelicPopup": {
@@ -1165,6 +1178,11 @@
   "TheCity": {
     "TEXT": [
       "Kota"
+    ]
+  },
+  "TheEnding": {
+    "TEXT": [
+      "Akhir"
     ]
   },
   "TipHelper": {
@@ -1254,6 +1272,23 @@
       "Ganti Nama",
       "Hapus Save ini"
     ]
+  },
+  "VictoryScreen": {
+    "TEXT": [
+      "Lanjut",
+      "Lantai Tercapai",
+      "Bos Terkalahkan",
+      "Waktu Main",
+      "Nilai",
+      "Segel",
+      "Segel Tersisa: ",
+      "Segel Tersisa: ",
+      "Musuh Dikalahkan",
+      "Elit Terbunuh",
+      "Emas Tersisa",
+      "Bonus HP",
+      "Kemenangan!"
+      ]
   },
   "Period": {
     "TEXT": [
