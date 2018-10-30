@@ -168,7 +168,8 @@
   "SmokeBomb": {
     "NAME": "Bom Asap",
     "DESCRIPTIONS": [
-      "Kabur dari pertarungan selain Bos. Tidak menerima hadiah."
+      "Kabur dari pertarungan selain Bos. Tidak menerima hadiah.",
+	  "Aku terkepung!"
     ]
   },
   "SneckoOil": {

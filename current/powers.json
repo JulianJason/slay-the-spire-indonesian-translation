@@ -460,6 +460,19 @@
       "Kurangi SEMUA damage yang didapat dan kehilangan HP ke #b1 giliran ini. Intangible diterapkan ulang tiap beberapa giliran."
     ]
   },
+  "Invincible": {
+    "NAME": "Invincible",
+    "DESCRIPTIONS": [
+      "Batasi SEMUA damage dan pengurangan HP yang diterima ke #b100."
+    ]
+  },
+  "BeatOfDeath": {
+    "NAME": "Beat Of Death",
+    "DESCRIPTIONS": [
+      "Ketika kamu memainkan sebuah kartu, terima #b",
+      " damage."
+    ]
+  },
   "IntangiblePlayer": {
     "NAME": "Kegaiban",
     "DESCRIPTIONS": [
@@ -979,10 +992,22 @@
       " kali HP Maksimum miliknya."
     ]
   },
+  "Surrounded": {
+    "NAME": "Surrounded",
+    "DESCRIPTIONS": [
+      "Menerima #b50% lebih damage jika diserang dari belakang. Gunakan kartu yang menyasar atau ramuan untuk mengubah orientasimu."
+    ]
+  },
   "Compulsive": {
     "NAME": "Reaktif",
     "DESCRIPTIONS": [
       "Ketika menerima damage serangan, ubah niatan."
+    ]
+  },
+  "BackAttack": {
+    "NAME": "Back Attack",
+    "DESCRIPTIONS": [
+      "Memberi #b50% lebih damage karena menyerangmu dari belakang."
     ]
   }
 }
