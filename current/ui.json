@@ -1294,5 +1294,13 @@
     "TEXT": [
       "."
     ]
+  },
+  "BetaArtUnlockEffect": {
+    "TEXT": [
+      "Gambar Kartu Beta Ironclad Terbuka!",
+      "Gambar Kartu Beta Silent Terbuka!",
+      "Gambar Kartu Beta Defect Terbuka!",
+      "Semua Gambar Kartu Beta Terbuka!"
+    ]
   }
 }
