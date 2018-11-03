@@ -1,4 +1,4 @@
-# (Soon-to-be) Official Slay The Spire Indonesian translation archives
+# Official Slay The Spire Indonesian translation archives
 
 
 ### Rules and Conventions (TODO)

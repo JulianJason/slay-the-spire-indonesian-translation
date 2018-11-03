@@ -869,12 +869,12 @@
     "DESCRIPTION": "Beri !D! damage. NL Ambil 2 kartu lebih giliran selanjutnya."
   },
   "Prepared": {
-    "NAME": "Siap",
+    "NAME": "persiapan",
     "DESCRIPTION": "Ambil !M! kartu. NL Buang !M! kartu.",
     "UPGRADE_DESCRIPTION": "Ambil !M! kartu. NL Buang !M! kartu."
   },
   "Pummel": {
-    "NAME": "Tinju",
+    "NAME": "Hantaman Beruntun",
     "DESCRIPTION": "Beri !D! damage !M! kali. NL Hangus.",
     "UPGRADE_DESCRIPTION": "Beri !D! damage !M! kali. NL Hangus."
   },
@@ -998,7 +998,7 @@
     "UPGRADE_DESCRIPTION": "Pilih !M! kartu dari dek ambil dan letakkan ke tangan. NL Hangus."
   },
   "Self Repair": {
-    "NAME": "Perbaikan Diri",
+    "NAME": "Reparasi Diri",
     "DESCRIPTION": "Pada akhir pertarungan, sembuhkan !M! HP."
   },
   "Sentinel": {
@@ -1187,7 +1187,7 @@
     "DESCRIPTION": "Beri !D! damage dua kali."
   },
   "Underhanded Strike": {
-    "NAME": "Serang Sunyi",
+    "NAME": "Serang Licik",
     "DESCRIPTION": "Beri !D! damage. NL Jika kamu telah membuang sebuah kartu giliran ini, NL dapatkan [G] [G].",
     "EXTENDED_DESCRIPTION": [
       "Aku tidak bisa memainkan kartu ini."
@@ -1284,7 +1284,7 @@
     "DESCRIPTION": "Jika kamu tidak punya kartu Serangan di tangan, ambil !M! kartu."
   },
   "Forethought": {
-    "NAME": "Pemikiran Sebelum",
+    "NAME": "Pemikiran ke depan",
     "DESCRIPTION": "Letakkan sebuah kartu dari tangan ke dasar dek ambil. NL Harganya 0 hingga dimainkan.",
     "UPGRADE_DESCRIPTION": "Letakkan berapapun kartu dari tangan ke dasar dek ambil. Harganya 0 hingga dimainkan."
   },

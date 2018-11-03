@@ -20,7 +20,7 @@
   "Addict": {
     "NAME": "Permohonan Gelandangan",
     "DESCRIPTIONS": [
-      "Saat kamu mencoba melewati sekelompok sosok terselubung, salah satu dari mereka mendatangimu. NL \"Punya apapun untukku kawan? Tolong... mungkin beberapa #yKoin?\" NL \"Aku hanya butuh tempat tinggal, aku punya harta karun yang bisa aku tukar...\" NL Dia telihat berkhayal, tapi tidak berbahaya.",
+      "Saat kamu mencoba melewati sekelompok sosok terselubung, salah satu dari mereka mendatangimu. NL \"Sesuatu untukku kawan? Tolong... mungkin beberapa #yKoin?\" NL \"Aku hanya butuh tempat tinggal, aku punya harta karun yang bisa aku tukar...\" NL Dia telihat berkhayal, tapi tidak berbahaya.",
       "\"Oh ya, ~ya!~ Sini sini, transaksi adil!\"",
       "Kamu merampas #ypusaka berharga dari cengkeramannya dan pergi. NL Dari belakang kamu mendengar, NL \"Apa kamu tidak punya rasa malu? ~APA~ ~KAMU~ ~TIDAK~ ~MALUUUU?!\"~ NL Kamu merasa #pmalu."
     ],
@@ -38,14 +38,14 @@
   "Back to Basics": {
     "NAME": "Tulisan Kuno",
     "DESCRIPTIONS": [
-      "Mengelilingi kota, kamu menyadari sebuah tembok tertutupi dengan tulisan dari #y~Ancient.~ Saat kamu mencoba mencari apa arti dari simbol-simbol dan tulisan aneh tersebut, tulisannya mulai #b~bercahaya.~ NL Tiba-tiba, pesannya menjadi jelas...",
+      "Mengelilingi kota, kamu menyadari sebuah tembok tertutupi dengan tulisan #y~kuno.~ Saat kamu mencoba mencari apa arti dari simbol-simbol dan tulisan aneh tersebut, tulisannya mulai #b~bercahaya.~ NL Tiba-tiba, pesannya menjadi jelas...",
       "Jawabannya adalah keeleganan. NL Tentu saja.",
       "Kebenaran itu selalu sederhana."
     ],
     "OPTIONS": [
       "[Elegansi] #gHapus #gsebuah #gKartu #gdari #gdek.",
       "[Kesederhanaan] #gPeningkatan #gsemua #gSerang #gdan #gBertahan.",
-      "Pilih sebuah Kartu untuk Dihapus.",
+      "Pilih sebuah Kartu untuk dihapus.",
       "[Pergi]"
     ]
   },
@@ -75,7 +75,7 @@
       "Kamu makan #ydonat. Benar-benar memuaskan! Meningkatkan HP Maksimummu.",
       "",
       "Kamu ambil kotaknya. Di dalamnya kamu menemukan #yPusaka!",
-      " NL Namun, kamu benar-benar menginginkan donat... NL Kamu merasakan ~kesedihan,~ tapi kebanyakan #rpenyesalan."
+      " NL Namun, kamu benar-benar menginginkan donat... NL Kamu merasakan ~kesedihan,~ tapi terutama #rpenyesalan."
     ],
     "OPTIONS": [
       "[Pisang] #gSembuhkan #g",
@@ -171,7 +171,7 @@
   "Duplicator": {
     "NAME": "Duplikator",
     "DESCRIPTIONS": [
-      "Di depanmu terhampar sebuah altar yang terhias untuk sebuah ancient.",
+      "Di depanmu terhampar sebuah altar yang terhias untuk sebuah wujud kuno.",
       "Kamu berlutut dengan hormat. Sebuah gambar cermin mengerikan muncul dari kuil dan menabrakmu.",
       "Kamu mengabaikan kuil, yakin dengan pilihanmu."
     ],
@@ -274,7 +274,7 @@
   "Golden Shrine": {
     "NAME": "Kuil Emas",
     "DESCRIPTIONS": [
-      "Di depanmu tersandar sebuah kuil rumit untuk sebuah arwah ancient. ",
+      "Di depanmu tersandar sebuah kuil rumit untuk sebuah arwah kuno. ",
       "Saat kamu menyentuh kuil, #yemas jatuh dari langit-langit ~menghujanimu~ ~dalam~ ~kekayaan.~ ",
       "Setiap kali kamu memukul kuil, #yemas jatuh lagi dan lagi! NL NL Saat kamu mengantonginya, ada #rbeban #rberat #rmenjatuhimu.",
       "Kamu mengabaikan kuil itu."

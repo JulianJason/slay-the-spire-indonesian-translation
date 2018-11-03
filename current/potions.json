@@ -51,7 +51,7 @@
     ]
   },
   "EntropicBrew": {
-    "NAME": "Entropic Brew",
+    "NAME": "Racikan Entropik",
     "DESCRIPTIONS": [
       "Isi semua petak ramuan kosong dengan ramuan acak."
     ]
@@ -105,7 +105,7 @@
     ]
   },
   "GamblersBrew": {
-    "NAME": "Brew Penjudi",
+    "NAME": "Racikan Penjudi",
     "DESCRIPTIONS": [
       "Buang berapapun kartu kemudian ambil sejumlah sama."
     ]
@@ -152,7 +152,7 @@
     ]
   },
   "Regen Potion": {
-    "NAME": "Ramuan Regen",
+    "NAME": "Ramuan Regenerasi",
     "DESCRIPTIONS": [
       "Dapatkan #b",
       " #yRegen.",

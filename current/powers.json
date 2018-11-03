@@ -16,15 +16,15 @@
   "Amplify": {
     "NAME": "Amplifikasi",
     "DESCRIPTIONS": [
-      "Pada giliran ini, mainkan #yKekuatan selanjutnya dua kali.",
+      "Pada giliran ini, mainkan #yKekuatan berikutnya dua kali.",
       "Pada giliran ini, mainkan ",
-      " #yKekuatan selanjutnya dua kali."
+      " #yKekuatan berikutnya dua kali."
     ]
   },
   "Anger": {
     "NAME": "Kemarahan",
     "DESCRIPTIONS": [
-      "Ketika kamu memainkan sebuah #yKemampuan, dapatkan #b",
+      "Ketika kamu memainkan sebuah #yKemampuan, ini mendapatkan #b",
       " #yStrength."
     ]
   },
@@ -56,8 +56,8 @@
   "Barricade": {
     "NAME": "Barikade",
     "DESCRIPTIONS": [
-      "#yBlok tidak kadaluarsa pada awal giliran.",
-      "#yBlok tidak kadaluarsa pada awal giliran."
+      "#yBlok tidak hilang pada awal giliran.",
+      "#yBlok tidak hilang pada awal giliran."
     ]
   },
   "Berserk": {
@@ -77,8 +77,8 @@
   "Blur": {
     "NAME": "Buram",
     "DESCRIPTIONS": [
-      "#yBlok tidak kadaluarsa pada awal giliran selanjutnya.",
-      "#yBlok tidak kadaluarsa pada awal #b",
+      "#yBlok tidak hilang pada awal giliran selanjutnya.",
+      "#yBlok tidak hilang pada awal #b",
       " giliran selanjutnya."
     ]
   },
