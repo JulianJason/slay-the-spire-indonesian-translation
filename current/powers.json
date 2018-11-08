@@ -461,13 +461,15 @@
     ]
   },
   "Invincible": {
-    "NAME": "Invincible",
+    "NAME": "Tak terkalahkan",
     "DESCRIPTIONS": [
-      "Batasi SEMUA damage dan pengurangan HP yang diterima ke #b100."
+      "Hanya dapat dikurangi #b",
+      " HP di giliran ini.",
+      "Tidak dapat di sakiti lagi di giliran ini"
     ]
   },
   "BeatOfDeath": {
-    "NAME": "Beat Of Death",
+    "NAME": "Detak kematian",
     "DESCRIPTIONS": [
       "Ketika kamu memainkan sebuah kartu, terima #b",
       " damage."

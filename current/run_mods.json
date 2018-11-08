@@ -162,5 +162,9 @@
   "Daily Mods": {
     "NAME": "Mode Harian",
     "DESCRIPTION": "Main dengan tepat 3 Mode Harian acak."
+  },
+  "The Ending": {
+    "NAME": "Yang Terakhir",
+    "DESCRIPTION": "Ijinkan bab terakhir."
   }
 }
