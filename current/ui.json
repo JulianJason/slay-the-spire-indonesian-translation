@@ -441,7 +441,7 @@
   },
   "DiscardPileToHandAction": {
     "TEXT": [
-      "Pilih satu kartu untuk dikembalikan ke tangan."
+      "Pilih satu Kartu untuk Kembali ke Tangan."
     ]
   },
   "DiscardPileToTopOfDeckAction": {
@@ -710,7 +710,7 @@
       "Sebuah ruang misteri. NL NL Kamu mungkin menemukan monster, harta karun, toko, atau sesuatu yang benar-benar berbeda.",
       "Pedagang",
       "Toko",
-      "Pedagang misterius menjual barangnya di ruangan itu. NL NL Habiskan #yEmas yang kamu dapat disini!",
+      "Sang Pedagang misterius menjual barangnya di ruangan ini. NL NL Habiskan #yEmas yang kamu dapat disini!",
       "Harta Karun",
       "Ruang Harta Karun",
       "#yPusaka dan #yEmas bisa ditemukan ruang idaman itu.",

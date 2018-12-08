@@ -605,7 +605,7 @@
   },
   "Old Coin": {
     "NAME": "Koin Tua",
-    "FLAVOR": "Koin unik sangat dihargai oleh Pedagang untuk nilai sejarahnya dan komposisi metal langkanya.",
+    "FLAVOR": "Koin unik sangat dihargai oleh pedagang untuk nilai sejarahnya dan komposisi metal langkanya.",
     "DESCRIPTIONS": [
       "Ketika diambil, dapatkan #b300 #yEmas."
     ]
@@ -835,9 +835,9 @@
   },
   "Smiling Mask": {
     "NAME": "Topeng Senyum",
-    "FLAVOR": "Topeng yang dipakai oleh sang pedagang. Dia pasti punya cadangan...",
+    "FLAVOR": "Topeng yang dipakai oleh sang Pedagang. Dia pasti punya cadangan...",
     "DESCRIPTIONS": [
-      "Layanan penghapusan kartu dari pedagang sekarang selalu berharga #b",
+      "Layanan penghapusan kartu dari Pedagang sekarang selalu berharga #b",
       " #yEmas."
     ]
   },
