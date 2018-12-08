@@ -548,7 +548,7 @@
     "NAME": "Ratapan Neow",
     "FLAVOR": "Berkat ratapan yang dianugerahkan oleh Neow.",
     "DESCRIPTIONS": [
-      "Musuh di #b3 pertarungan pertama akan memiliki 1 HP.",
+      "Musuh di #b3 pertarungan pertama akan memiliki #b1 HP.",
       "The blessing is used up."
     ]
   },

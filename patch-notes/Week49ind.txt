@@ -1,0 +1,67 @@
+Patch minggu 49: Sang Designer
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/e2f30fcce316d7c90c76106fef1c478011b3b37a.png[/img]
+Halo semua,
+
+Minggu ini kami menggunakan waktu kami untuk menyelesaikan dan menyetel beberapa konten sambil memilah dan memasukan seni kartu beta.
+
+
+[h1]Konten Final[/h1]
+Konten ini akan menjadi tersedia di branch utama minggu depan. Musik baru yang dimasukan bersama konten ini, bersama musik spesial yang digunakan di event "Perkembangan Jiwa"  juga akan ditambah ke [url=https://store.steampowered.com/app/877620/Slay_the_Spire__Soundtrack/]Slay the Spire - Soundtrack[/url] minggu depan.
+
+[h1]Seni Kartu Beta[/h1]
+Kami menerima banyak sekali pengajuan, terima kasih!. pengajuan seni beta akan tetap dibuka selama 1 minggu lagi sambil kami mengidentifikasi kartu-kartu yang belum ada seni. Untuk informasi mengenai partisipasi dan lain lain bisa ditemukan di [url=https://steamcommunity.com/games/646570/announcements/detail/1706195930369690868]pengumuman minggu lalu.[/url]
+
+[h1]Fan Art komunitas[/h1]
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/3dd8fd9202ccbcfb0ae45701fbf63d3d433f8958.png[/img]
+[i]Full Heal! oleh [url=https://www.reddit.com/user/Zixzs]/u/Zixzs[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/38d12f7f104c3a01f4fd9be0aec39fc048cb3348.jpg[/img]
+[i]a Transient redesign oleh [url=https://www.artstation.com/krane]MrKrane[/url][/i]
+
+[img]https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/29087962/bd6b3c801a2175380e9867fd771f3b06e1b7ecc8.jpg[/img]
+[i]Gremlin Leader oleh [url=https://twitter.com/l3w15911]@l3w15911[/url][/i]
+
+
+[b]Patch Notes[/b]
+
+[h1]Penyeimbangan[/h1]
+[list]
+[*]Batu Filsuf diperkuat: Musuh memulai dengan 2 Daya -> 1 Daya.
+[*]modifikasi daily "Ceroboh" telah dihapus.
+[/list]
+
+[h1]Pembetulan Bug[/h1]
+[list]
+[*]Menambah garis baru untuk Pembelajaran Mesin supaya kata Permulaan berada di garis sendiri. 
+[*]Modifikasi Kartu Tanpa Warna sekarang berinteraksi dengan Modifikasi Kartu Berkilat dengan benar.
+[*]Modifikasi Kartu Tanpa Warna dulu membuat kartu tanpa berwarna untuk ditawarkan dua kali lepat lebih sering dari yang seharusnya. 
+[*]Event Mayat Pengembara tidak memberi emas secara benar. (Hanya menunjukan efek visual)
+[*]Ralat untuk ruang harta karun bos tidak ditunjukan secara benar di layar sejarah run.
+[*]Ralat untuk kartu seperti Darah untuk Darah dan Tusukan Ahli terkena efek di luar kombat. 
+[*]Ralat dimana SFX Ambient di menu utama dimainkan dua kali ketika memuat profil. 
+[*]Ralat isu dimana pemain tidak dapat menahan kartu bila hanya mempunyai satu kartu di tangan. (kontroler).
+[*]Ralat untuk beberapa masalah penampilan di layar sejarah run. 
+[*]Kartu Ledakan Pemikiran sekarang bekerja dengan benar bersama modifikasi Kekacauan Teratur.
+[*]Pembetulan deskripsi Mata Snecko.
+[*]Kekuatan Tusukan Menyakitkan tidak akan memberi kartu Luka bila kehilangan HP dihentikan oleh Jarak Pelindung.
+[*]Pembetulan dimana kartu dan tombol akhiri giliran membuat isu suara.
+[*]Pembetukan supaya save yang menggunakan modifikasi yang sudah tidak digunakan seperti Kecerobohan dan Kolosus. 
+[*]Musuh reptomancer dulu menerima bonus Kenaikan 18 di Kenaikan 17.
+[*]Modifikasi Terbang sekarang bekerja dengan kontroler secara teratur. 
+[*]Efek penyembuhan di panel atas tidak lagi dimainkan ketima musuh yang disembukan atau mendapatkan kenaikan HP maksimal. 
+[*]Event Roda Perubahan tidak lagi membuat terjebak ketika kartu yang hanya bisa dihapus tersimpan dalam Botol.
+[/list]
+
+
+[h1]UI and Effects[/h1]
+[list]
+[*]pembetulan text di Batu Filsuf.
+[*]Sekarang dapat membuka menu pengautran ketika di layar untuk mendapat kartu spesial seperti Bel Pemanggil atau modifikasi daily Bintang Idola.
+[/list]
+
+[h1]Localization[/h1]
+[list]
+[*]Update untuk DEU, EPO, FRA, IND, ITA, KOR, POL, RUS, ZHS, and ZHT.
+[*]Update credits untuk RUS, dan ZHS.
+[/list]

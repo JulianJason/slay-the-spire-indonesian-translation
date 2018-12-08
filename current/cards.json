@@ -291,7 +291,7 @@
   },
   "Corpse Explosion": {
     "NAME": "Ledakan Mayat",
-    "DESCRIPTION": "Terapkan !M! Racun. NL Ketika musuh itu mati, beri damage ke SEMUA musuh sama dengan HP maks milik musuh itu.",
+    "DESCRIPTION": "Terapkan !M! Racun. NL Ketika musuh itu mati, beri damage ke SEMUA musuh sama dengan HP Maks milik musuh itu.",
     "UPGRADE_DESCRIPTION": "deprecated",
     "EXTENDED_DESCRIPTION": [
       "deprecated"
@@ -933,7 +933,7 @@
   },
   "Regret": {
     "NAME": "Penyesalan",
-    "DESCRIPTION": "Statis. NL Pada akhir giliran, kehilangan 1 HP setiap kartu di tangan."
+    "DESCRIPTION": "Statis. NL Pada akhir giliran, kehilangan HP setara dengan jumlah kartu di tangan."
   },
   "Reinforced Body": {
     "NAME": "Perkuat Tubuh",
