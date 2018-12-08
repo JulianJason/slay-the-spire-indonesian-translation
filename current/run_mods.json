@@ -152,7 +152,7 @@
     "DESCRIPTION": "Mulai dengan Mata Beku. Pada awal giliran tambah 10 kartu acak ke dasar dek ambil."
   },
   "MonsterHunter": {
-    "NAME": "Raksasa",
+    "NAME": "[DEPRECATED] Raksasa",
     "DESCRIPTION": "Musuh punya tambahan HP tapi menjatuhkan hadiah yang lebih baik."
   },
   "DeadlyEvents": {

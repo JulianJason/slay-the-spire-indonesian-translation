@@ -315,7 +315,7 @@
     "NAME": "Kepingan Emosi",
     "FLAVOR": "...<3...?",
     "DESCRIPTIONS": [
-      "Pada awal tiap giliran, jika kamu menerima damage giliran sebelumnya, aktifkan efek pasif dari semua Orb."
+      "Jika kamu menerima damage di giliran sebelumnya, aktifkan efek pasif pada semua Orb."
     ]
   },
   "Enchiridion": {
