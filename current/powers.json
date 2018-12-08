@@ -535,8 +535,8 @@
   "Magnetism": {
     "NAME": "Daya Tarik",
     "DESCRIPTIONS": [
-      "Pada awal giliran, tambah #b%s kartu tanpa warna acak ke tangan.",
-      "Pada awal giliran, tambah #b%s kartu tanpa warna acak ke tangan."
+      "Pada awal giliran, tambah #b%s Kartu Tanpa Warna acak ke tangan.",
+      "Pada awal giliran, tambah #b%s Kartu Tanpa Warna acak ke tangan."
     ]
   },
   "Malleable": {
@@ -855,8 +855,8 @@
   "Strength": {
     "NAME": "Daya",
     "DESCRIPTIONS": [
-      "Naikkan damage Serangan sebanyak #b",
-      "Kurangi damage Serangan sebanyak #b",
+      "Naikkan damage serangan sebanyak #b",
+      "Kurangi damage serangan sebanyak #b",
       "."
     ]
   },
