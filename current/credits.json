@@ -42,7 +42,20 @@
       "Magnus Upmann"
     ]
   },
-  "LOC_DUT": {},
+  "LOC_DUT": {
+	"HEADER": "Lokalisasi Belanda",
+    "NAMES": [
+      "Ketua Gremlin:",
+      "Jelle Steinmann \"NotADitto\"",
+      "Gremlin Nob:",
+      "Charlie \"Alcus\" Ye",
+      "Gremlin:",
+      "Oscar Cousin",
+      "\"Meriscan\"",
+      "Lise Leitner",
+      "Joris \"Mort\" Bogers"
+    ]
+  },
   "LOC_EPO": {
     "HEADER": "Lokalisasi Esperanto",
     "NAMES": [
@@ -249,7 +262,8 @@
       "feedbackbot",
       "Evan Howell",
       "Justin Myhres",
-      "robojumper"
+      "robojumper",
+	  "Tony \"kiooeht\" Moore"
     ]
   },
   "TEST": {
@@ -282,7 +296,10 @@
       "Merijn van der Vliet",
       "David Von Derau",
       "Conor Watson",
-      "David \"divadus\" Withington"
+      "David \"divadus\" Withington",
+	  "Jason \"Wyrm\" Deng", 
+	  "Jonas \"bigunit3000\" Wilson",
+	  "TBytemaster"
     ]
   },
   "THANKS_MSG": {

@@ -1010,7 +1010,8 @@
       "%s Damage",
       "#bPeningkatan %s",
       "#bTransformasi %s",
-      "#rKehilangan %s"
+      "#rKehilangan %s",
+	  "#bMengingat"
     ]
   },
   "RunHistoryMonsterNames": {
