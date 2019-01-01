@@ -18,7 +18,7 @@
     "NAME": "Seni Peperangan",
     "FLAVOR": "Dokumen kuno ini mengandung hikmah dari masa lalu.",
     "DESCRIPTIONS": [
-      "Jika kamu tidak memainkan #ySerangan apapun di giliranmuu, dapatkan tambahan ",
+      "Jika kamu tidak memainkan #ySerangan apapun di giliranmu, dapatkan tambahan ",
       "[E] giliran selanjutnya."
     ]
   },
@@ -66,7 +66,7 @@
     "NAME": "Bintang Hitam",
     "FLAVOR": "Awalnya ditemukan di kota serpent, di samping sebuah lilin yang sendiri.",
     "DESCRIPTIONS": [
-      "#yElite memberi satu tambahan pusaka ketika dikalahkan."
+      "#yElit memberi satu tambahan pusaka ketika dikalahkan."
     ]
   },
   "Blood Vial": {
@@ -1232,7 +1232,7 @@
     "NAME": "Tiket Makan",
     "FLAVOR": "\"Tambahan bakso untuk setiap kunjungan!\"",
     "DESCRIPTIONS": [
-      "Setiap kali kamu memasuki sebuah ruang toko, sembuhkan #b.",
+      "Setiap kali kamu memasuki sebuah ruang toko, sembuhkan #b",
       " HP."
     ]
   },

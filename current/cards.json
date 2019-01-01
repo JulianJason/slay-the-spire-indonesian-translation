@@ -869,7 +869,7 @@
     "DESCRIPTION": "Beri !D! damage. NL Ambil 2 kartu lebih giliran selanjutnya."
   },
   "Prepared": {
-    "NAME": "persiapan",
+    "NAME": "Persiapan",
     "DESCRIPTION": "Ambil !M! kartu. NL Buang !M! kartu.",
     "UPGRADE_DESCRIPTION": "Ambil !M! kartu. NL Buang !M! kartu."
   },
@@ -1284,7 +1284,7 @@
     "DESCRIPTION": "Jika kamu tidak punya kartu Serangan di tangan, ambil !M! kartu."
   },
   "Forethought": {
-    "NAME": "Pemikiran ke depan",
+    "NAME": "Perencanaan",
     "DESCRIPTION": "Letakkan sebuah kartu dari tangan ke dasar dek ambil. NL Harganya 0 hingga dimainkan.",
     "UPGRADE_DESCRIPTION": "Letakkan berapapun kartu dari tangan ke dasar dek ambil. Harganya 0 hingga dimainkan."
   },

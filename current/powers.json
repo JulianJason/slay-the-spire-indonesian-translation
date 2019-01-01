@@ -755,7 +755,7 @@
   "Ritual": {
     "NAME": "Ritual",
     "DESCRIPTIONS": [
-      "Pada akhir gilirannnya, dapatkan #b",
+      "Pada akhir gilirannya, dapatkan #b",
       " #yDaya."
     ]
   },
@@ -782,8 +782,8 @@
   "Shackled": {
     "NAME": "Terantai",
     "DESCRIPTIONS": [
-      "Mengembalikan #b",
-      " #yDaya pada akhir gilirannya."
+      "Pada akhir gilirannya, mendapatkan #b",
+      " #yDaya."
     ]
   },
   "Sharp Hide": {
@@ -969,8 +969,8 @@
   "Shifting": {
     "NAME": "Perubahan",
     "DESCRIPTIONS": [
-      "Ketika ",
-      " menerima damage, ini kehilangan #yDaya sebanyak itu hingga akhir giliran."
+      "",
+      "Ketika kehilangan HP, ini kehilangan #yDaya sebanyak itu hingga akhir giliran."
     ]
   },
   "TimeMazePower": {
