@@ -730,7 +730,8 @@
   "Lift Option": {
     "TEXT": [
       "Angkat",
-      "Mulai pertarungan dengan +1 Daya. (Hingga 3)"
+      "Mulai pertarungan dengan +1 Daya. (Hingga 3)",
+	  ""
     ]
   },
   "MainMenuScreen": {
@@ -936,7 +937,8 @@
       "Istirahat",
       "Sembuhkan 100% dari HP Maks (",
       " HP dari ",
-      "Sembuhkan 30% dari HP Maks ("
+      "Sembuhkan 30% dari HP Maks (",
+	  ""
     ]
   },
   "RestartForChangesEffect": {
@@ -1303,6 +1305,14 @@
       "Gambar Kartu Beta Silent Terbuka!",
       "Gambar Kartu Beta Defect Terbuka!",
       "Semua Gambar Kartu Beta Terbuka!"
+    ]
+  },
+  "RichPresence": {
+    "TEXT": [
+      "Harian - Lantai %s",
+      "Spesial - Lantai %s",
+      " - Lantai %s",
+      "Menu Utama"
     ]
   }
 }
