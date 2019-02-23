@@ -650,9 +650,9 @@
     "NAME": "Zirah Berlapis",
     "DESCRIPTIONS": [
       "Dapatkan #b",
-      " #yBlok pada akhir giliran. Kehilangan HP dari sebuah Serangan mengurangi #yPlated #yArmor sebanyak #b1.",
+      " #yBlok pada akhir giliran. damage yang tidak tertahan mengurangi #yPlated #yArmor sebanyak #b1.",
       "Dapatkan #b",
-      " #yBlok pada akhir giliran. Kehilangan HP dari sebuah Serangan mengurangi #yPlated #yArmor sebenyak #b1."
+      " #yBlok pada akhir giliran. damage yang tidak tertahan mengurangi #yPlated #yArmor sebenyak #b1."
     ]
   },
   "Poison": {
