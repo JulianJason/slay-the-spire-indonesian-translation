@@ -104,7 +104,8 @@
   "LOC_JPN": {
     "HEADER": "Lokalisasi Jepang",
     "NAMES": [
-      "Grezzz"
+      "Grezzz (Community Translation)",
+      "Kakehashi Games (Official Translation)"
     ]
   },
   "LOC_KOR": {
@@ -201,13 +202,24 @@
       "Nikola \"hauzer\" Vukosavljevic"
     ]
   },
-  "LOCA_THA": {
-
+  "LOC_THA": {
+    "HEADER": "Lokalisasi Thai",
+    "NAMES": [
+      "Translasi dan koordinasi:",
+      "Noppon Varapaiboon (PlearnGaming)",
+      "Translasi Tambahan:",
+      "Rapeepat Suwan (Yuu)",
+      "Sarawut Suwan (Tomoeic)",
+      "Fonts:",
+      "CSChatThaiUI oleh raveetavan@gmail.com",
+      "Layiji MaHaNiYom oleh layiji@gmail.com"
+    ]
   },
   "LOC_TUR": {
     "HEADER": "Lokalisasi Turki",
     "NAMES": [
-      "Erdem Gürbüz"
+      "Erdem Gürbüz",
+      "\"onparalelkenarag\""
     ]
   },
   "LOC_UKR": {
@@ -242,10 +254,42 @@
       "Jake Rabinowitz"
     ]
   },
+  "PORTING": {
+    "HEADER": "Penerbitan konsol dan mobile",
+    "NAMES": [
+      "Sickhead Games, LLC"
+    ]
+  },
   "PORTRAITS": {
     "HEADER": "Potret Kartu & Gambar Event",
     "NAMES": [
       "Anailis Dorta"
+    ]
+  },
+  "PUBLISHING": {
+    "HEADER": "Humble Bundle",
+    "NAMES": [
+      "GM: Alan Patmore",
+      "CBO: Steven Kovensky",
+      "VP, Business Development:  Eduardo Aparicio",
+      "Publishing Manager:  John Polson",
+      "Publishing Release Manager: Evan Koepf",
+      "Publishing Brand Manager:  Connor Bridgeman",
+      "Business Development Director, Publishing:  Mai Kawaguchi",
+      "Senior Business Developer:  Thomas Glenn",
+      "Senior Business Developer:  Bob Mills",
+      "Business Developer:  Trisha Tabor",
+      "Business Developer:  Angel Lyons-Labate",
+      "Store Director:  Paul Herron",
+      "Director of Finance:  Eric Samuel",
+      "VP of Product:  Nate Muller",
+      "Director of Marketing:  Jeremie Vella",
+      "Marketing Manager:  Whitney Stutes",
+      "Marketing Growth Manager:  Francois du Toit",
+      "Ninja Support:  Jimmy Chi",
+      "Ninja Support:  Kasey Brounkowski",
+      "Ninja Support:  Kayla Fyfe",
+      "Ninja Support:  Patrick Monahan"
     ]
   },
   "SOUND": {
@@ -314,6 +358,14 @@
     "NAMES": [
       "Tamara Ryan",
       "Michael Schwalbe"
+    ]
+  },
+  "KAKEHASHI": {
+    "HEADER": "Kakehashi Games",
+    "NAMES": [
+      "Kakehashi Games (Official Translation:",
+      "Support Penerbitan Jepang: Kakehashi games",
+      "Lokalisasi Jepang: Rie Ihara"
     ]
   }
 }

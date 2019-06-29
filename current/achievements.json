@@ -45,7 +45,8 @@
       "Rubi+",
       "Zamrud+",
       "Safir+",
-      "Akhir?"
+      "Akhir?",
+      "Sang Abadi"
     ],
     "TEXT": [
       "Menangkan sebuah pertarungan dengan sisa 1 HP.",
@@ -92,7 +93,8 @@
       "Selesaikan Akhir dengan Ironclad.",
       "Selesaikan Akhir dengan Silent.",
       "Selesaikan Akhir dengan Defect.",
-      "Selesaikan Akhir dengan Ironclad, Silent, dan Defect."
+      "Selesaikan Akhir dengan Ironclad, Silent, dan Defect.",
+      "Capaikan semua pencapaian yang lain"
     ]
   },
   "CharStat": {
@@ -134,6 +136,14 @@
     ],
     "TEXT": [
       "Kembali"
+    ]
+  },
+  "PS4Trophy": {
+    "NAMES": [
+      "Sang Abadi"
+    ],
+    "TEXT": [
+      "Capaikan semua pencapaian yang lain."
     ]
   }
 }

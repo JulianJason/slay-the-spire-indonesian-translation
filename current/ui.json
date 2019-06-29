@@ -152,6 +152,13 @@
       " giliran"
     ]
   },
+  "BetterToHandAction": {
+    "TEXT": [
+      "Pilih satu kartu untuk Kembali ke Tangan",
+      "Pilih",
+      " Kartu untuk Kembali ke Tangan."
+    ]
+  },
   "BossChest": {
     "TEXT": [
       "Lanjut"
@@ -332,7 +339,9 @@
       "Pengubah: ",
       "Papan Ranking",
       "*Pencapaian tidak tersedia untuk Tantangan Harian.",
-      "  [MODE OFFLINE]"
+      "  [MODE OFFLINE]",
+      "MMMM dd, yyyy",
+      "*Piala tidak tersedia untuk Tantangan Harian"
     ]
   },
   "DeathScreen": {
@@ -638,7 +647,8 @@
       "Kanan (Alt)*",
       "Atas",
       "Bawah",
-      "Controller Tersedia"
+      "Controller Tersedia",
+      "Mode layar sentuh"
     ]
   },
   "LanguageDropdown": {
@@ -810,7 +820,9 @@
       "Mainkan Dakian Harian untuk membuka mode game ini.",
       "Fitur ini belum tersedia.",
       "Spesial",
-      "Ubah permainanmu dengan mode pengubah unik."
+      "Ubah permainanmu dengan mode pengubah unik.",
+      "Ubah pengaturan kontrol",
+      "Ubah pengaturan grafis, audio dan permainan"
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -850,7 +862,11 @@
       "Mode Gambar Playtester",
       "Lihat Kunci Pilih Cepat Kartu",
       "Pengaturan Masukan",
-      "Nonaktifkan Efek Partikel"
+      "Nonaktifkan Efek Partikel",
+      "Resolusi:",
+      "Resolusi: NL Layar penuh:",
+      "Merubah monitor yang dipakai ketika memasuki mode fullscreen",
+      "Tekan lama untuk konfirmasi"
     ]
   },
   "PatchNotesScreen": {
@@ -934,10 +950,7 @@
   },
   "Rest Option": {
     "TEXT": [
-      "Istirahat",
-      "Sembuhkan 100% dari HP Maks (",
-      " HP dari ",
-      "Sembuhkan 30% dari HP Maks (",
+
 	  ""
     ]
   },
@@ -1084,7 +1097,8 @@
       "Hanya Kenaikan",
       "Hanya Tantangan Harian",
       "Kode: %s",
-      "Kode Spesial: %s"
+      "Kode Spesial: %s",
+      "M/d/yyyy. h:mm a"
     ]
   },
   "SeedPanel": {
@@ -1093,7 +1107,8 @@
       "Masukkan Kode Baru",
       "Konfirmasi",
       "Batal",
-      "*Pencapaian dan Papan Ranking dimatikan jika Kode digunakan."
+      "*Pencapaian dan Papan Ranking dimatikan jika Kode digunakan.",
+      "*Piala dan Papan Ranking dimatikan jika Kode digunakan."
     ]
   },
   "SettingsScreen": {
@@ -1261,7 +1276,8 @@
       "Mode Kenaikan",
       "Pengubah",
       "Kode",
-      "Pasang Kode"
+      "Pasang Kode",
+      "Piala dan Papan Ranking tidak aktif."
     ]
   },
   "SaveSlot": {
@@ -1312,7 +1328,8 @@
       "Harian - Lantai %s",
       "Spesial - Lantai %s",
       " - Lantai %s",
-      "Menu Utama"
+      "Menu Utama",
+      " (A%s)"
     ]
   }
 }
