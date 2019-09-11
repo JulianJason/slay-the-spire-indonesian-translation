@@ -8,19 +8,19 @@
   "Wrath": {
     "NAME": "Wrath",
     "DESCRIPTION": [
-      "Your Attacks deal double damage and you take double damage from attacks."
+      "Seranganmu memberi damage ganda dan kamu menerima damage ganda dari serangan."
     ]
   },
   "Calm": {
     "NAME": "Calm",
     "DESCRIPTION": [
-      "Upon exiting this #yStance, gain [W] [W] ."
+      "Ketika keluar dari #ySikap ini, dapatkan [W] [W] ."
     ]
   },
   "Divinity": {
     "NAME": "Divinity",
     "DESCRIPTION": [
-      "Upon entering this #yStance, gain [W] [W] [W] . Attacks deal triple damage. Exit this #yStance at the start of your next turn."
+      "Ketika memasuki #ySikap ini, dapatkan [W] [W] [W] . Serangan memberi damage tiga kali lipat. Keluar dari #ySikap ini pada awal giliran berikutnya."
     ]
   }
 }
