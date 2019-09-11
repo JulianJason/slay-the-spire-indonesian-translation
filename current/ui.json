@@ -834,6 +834,17 @@
       "Oh tidak!"
     ]
   },
+  "MiscConsoleStrings": {
+    "TEXT": [
+      "Tekan ",
+      " untuk Mulai",
+      "Ubah Profil",
+      "Area Tampilan",
+      "Perubahan akun telah terjadi. Mohon masuk kembali atau keluar ke layar awal.",
+      "Masuk",
+      "Keluar"
+    ]
+  },
   "OpeningAction": {
     "TEXT": [
       "Musuh itu tidak berniat untuk menyerang!"

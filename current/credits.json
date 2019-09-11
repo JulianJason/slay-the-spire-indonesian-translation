@@ -59,7 +59,8 @@
   "LOC_EPO": {
     "HEADER": "Lokalisasi Esperanto",
     "NAMES": [
-      "Vincent \"Babelismoj\" Oostelbos"
+      "Vincent \"Babelismoj\" Oostelbos",
+      "Spencer van der Meulen"
     ]
   },
   "LOC_FRA": {
@@ -219,7 +220,8 @@
     "HEADER": "Lokalisasi Turki",
     "NAMES": [
       "Erdem Gürbüz",
-      "\"onparalelkenarag\""
+      "\"onparalelkenarag\"",
+      "Berkan Çalıkoğlu"
     ]
   },
   "LOC_UKR": {
