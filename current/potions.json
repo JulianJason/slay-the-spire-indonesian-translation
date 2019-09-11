@@ -9,7 +9,8 @@
   "AttackPotion": {
     "NAME": "Ramuan Serangan",
     "DESCRIPTIONS": [
-      "Pilih #b1 dari #b3 kartu #ySerangan acak untuk ditambah ke tangan, harganya #b0 giliran ini."
+      "Pilih #b1 dari #b3 kartu #ySerangan acak untuk ditambah ke tangan, harganya #b0 giliran ini.",
+	  "Pilih #b1 dari #b3 kartu #ySerangan acak dan tambah #b2 ke tangan, harganya #b0 giliran ini."
     ]
   },
   "Block Potion": {
@@ -73,7 +74,8 @@
   "FairyPotion": {
     "NAME": "Peri dalam Botol",
     "DESCRIPTIONS": [
-      "Ketika kamu mati, sembuhkan ke #b10% dari HP Maksimum dan buang ramuan ini."
+      "Ketika kamu mati, sembuhkan ke #b",
+	  "% dari HP Maksimum dan buang ramuan ini."
     ]
   },
   "FearPotion": {
@@ -148,7 +150,8 @@
   "PowerPotion": {
     "NAME": "Ramuan Kekuatan",
     "DESCRIPTIONS": [
-      "Pilih #b1 dari #b3 kartu #yKekuatan acak untuk ditambah ke tangan, harganya #b0 giliran ini."
+      "Pilih #b1 dari #b3 kartu #yKekuatan acak untuk ditambah ke tangan, harganya #b0 giliran ini.",
+	  "Pilih #b1 dari #b3 kartu #yKekuatan acak dan tambah #b2 ke tangan, harganya #b0 giliran ini."
     ]
   },
   "Regen Potion": {
@@ -162,7 +165,8 @@
   "SkillPotion": {
     "NAME": "Ramuan Kemampuan",
     "DESCRIPTIONS": [
-      "Pilih #b1 dari #b3 kartu #yKemampuan acak untuk ditambah ke tangan, harganya #b0 giliran ini."
+      "Pilih #b1 dari #b3 kartu #yKemampuan acak untuk ditambah ke tangan, harganya #b0 giliran ini.",
+	  "Pilih #b1 dari #b3 kartu #yKemampuan acak dan tambah #b2 ke tangan, harganya #b0 giliran ini."
     ]
   },
   "SmokeBomb": {
@@ -216,6 +220,19 @@
     "DESCRIPTIONS": [
       "Terapkan #b",
       " #yLemah."
+    ]
+  },
+  "StancePotion": {
+    "NAME": "Ramuan Sikap",
+    "DESCRIPTIONS": [
+      "Masuki #yTenang atau #yDendam."
+    ]
+  },
+  "DuplicationPotion": {
+    "NAME": "Ramuan Pengganda",
+    "DESCRIPTIONS": [
+      "Giliran ini, kartu selanjutnya dimainkan dua kali.",
+      "Giliran ini, #b2 kartu selanjutnya dimainkan dua kali.","
     ]
   }
 }

@@ -151,7 +151,9 @@
     },
     "RETAIN": {
       "NAMES": [
-        "tahan"
+        "tahan",
+		"tahan",
+		"ditahan"
       ],
       "DESCRIPTION": "Kartu yang ditahan tidak dibuang pada akhir giliran."
     },
@@ -252,6 +254,56 @@
         "luka"
       ],
       "DESCRIPTION": "Luka adalah kartu status yang statis."
+    },
+    "WRATH": {
+      "NAMES": [
+        "dendam"
+      ],
+      "DESCRIPTION": "Dalam #ySikap ini, kamu memberi dan menerima damage serangan ganda."
+    },
+    "CALM": {
+      "NAMES": [
+        "tenang"
+      ],
+      "DESCRIPTION": "Ketika keluar dari #ySikap ini, dapatkan [W] [W] ."
+    },
+    "STANCE": {
+      "NAMES": [
+        "sikap",
+        "sikap"
+      ],
+      "DESCRIPTION": "Kamu hanya bisa memiliki satu sikap pada satu waktu."
+    },
+    "SCRY": {
+      "NAMES": [
+        "ramal"
+      ],
+      "DESCRIPTION": "Lihat X kartu atas dari dek ambil. Kamu boleh buang kartu tersebut."
+    },
+    "DIVINITY": {
+      "NAMES": [
+        "keilahian"
+      ],
+      "DESCRIPTION": "Ketika memasuki sikap ini, dapatkan [W] [W] [W] . Serangan memberi damage tiga kali lipat. Keluar dari #ySikap ini pada awal giliran berikutnya."
+    },
+    "PRAYER": {
+      "NAMES": [
+        "mantra",
+		"lewat kekerasan"
+      ],
+      "DESCRIPTION": "Ketika kamu memperoleh #b10 #yMantra, masuk #yKeilahian."
+    },
+    "VIGOR": {
+      "NAMES": [
+        "tenaga"
+      ],
+      "DESCRIPTION": "Serangan berikutnya memberi damage tambahan."
+    },
+    "REGEN": {
+      "NAMES": [
+        "regen"
+      ],
+      "DESCRIPTION": "Regen menyembuhkan HP pada akhir giliran. Tiap giliran, Regen berkurang sebanyak #b1."
     }
   }
 }

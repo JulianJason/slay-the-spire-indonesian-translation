@@ -46,7 +46,9 @@
       "Zamrud+",
       "Safir+",
       "Akhir?",
-      "Sang Abadi"
+      "Sang Abadi",
+	  "Kuarsa",
+	  "Kuarsa+"
     ],
     "TEXT": [
       "Menangkan sebuah pertarungan dengan sisa 1 HP.",
@@ -94,7 +96,9 @@
       "Selesaikan Akhir dengan Silent.",
       "Selesaikan Akhir dengan Defect.",
       "Selesaikan Akhir dengan Ironclad, Silent, dan Defect.",
-      "Capaikan semua pencapaian yang lain"
+      "Capaikan semua pencapaian yang lain",
+      "Menangkan game dengan Watcher.",
+      "Selesaikan Akhir dengan Watcher."
     ]
   },
   "CharStat": {
