@@ -1015,7 +1015,8 @@
     "NAME": "Kotak Alat",
     "FLAVOR": "Alat untuk semua pekerjaan.",
     "DESCRIPTIONS": [
-      "Pada awal tiap pertarungan, tambah satu kartu tanpa warna acak ke tangan."
+      choose #b1 of #b3 random Colorless cards and add the chosen card into your hand
+      "Pada awal tiap pertarungan, pilih #b1 dari #b3 kartu tanpa warna acak dan tambahkan kartu yang dipilih ke tangan."
     ]
   },
   "Torii": {
