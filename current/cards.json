@@ -1292,5 +1292,580 @@
     "NAME": "Penemuan",
     "DESCRIPTION": "Pilih 1 dari 3 kartu acak untuk ditambah ke tangan. Harganya 0 giliran ini. NL Hangus.",
     "UPGRADE_DESCRIPTION": "Pilih 1 dari 3 kartu acak untuk ditambah ke tangan. Harganya 0 giliran ini."
+  },
+  "Nirvana": {
+    "NAME": "Nirvana",
+    "DESCRIPTION": "Setiap kali kamu Menggali, dapatkan !M! Blok.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "EmptyFist": {
+    "NAME": "Tangan kosong",
+    "DESCRIPTION": "Berikan !D! damage. NL Keluar dari Ancang-ancang."
+  },
+  "EmptyBody": {
+    "NAME": "Empty Body",
+    "DESCRIPTION": "Dapatkan !B! Blok. NL Keluar dari Ancang-ancang."
+  },
+  "WreathOfFlame": {
+    "NAME": "Lingkaran api",
+    "DESCRIPTION": "Serangan berikut mu memberi !M! damage lebih."
+  },
+  "FearNoEvil": {
+    "NAME": "Tak Takut jahat",
+    "DESCRIPTION": "Berikan !D! damage. NL Bila musuh ingin menyerang, masuk ancang-ancang Teduh."
+  },
+  "MentalFortress": {
+    "NAME": "Mental Baja",
+    "DESCRIPTION": "Ketika kamu mengganti Ancang-ancang, dapatkan !M! Blok."
+  },
+  "Mastery": {
+    "NAME": "Kemahiran",
+    "DESCRIPTION": "Setiap kali kamu mencoba mengganti Ancang-ancang ke Ancang-ancang mu yang sekarang, dapatkan [B]."
+  },
+  "Collect": {
+    "NAME": "Menagih",
+    "DESCRIPTION": "Taruh sebuah *Mukjizat+ ke tanganmu di awal X giliran berikutnya. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Taruh sebuah *Mukjizat+ ke tanganmu di awal X+1 giliran berikutnya. NL Hangus."
+  },
+  "ForeignInfluence": {
+    "NAME": "Pengaruh Asing",
+    "DESCRIPTION": "Pilih 1 dari 3 Serangan dari warna apapun dan taruh di tanganmu. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Pilih 1 dari 3 Serangan dari warna apapun dan taruh di tanganmu. NL Harganya 0 giliran ini. NL Hangus."
+  },
+  "FlowState": {
+    "NAME": "DEPRECATED Posisi mengalir",
+    "DESCRIPTION": "Amarah: Masuk Teduh. NL Teduh: Masuk Amarah. NL Hangus.",
+  	"UPGRADE_DESCRIPTION": "Amarah: Masuk Teduh. NL Teduh: Masuk Amarah."
+  },
+  "FlurryOfBlows": {
+    "NAME": "Pukulan Ganda",
+    "DESCRIPTION": "Berikan !D! damage. NL Ketika kamu mengubah Ancang-ancang, taruh ini dari dek buang ke Tangan."
+  },
+  "PalmThatRestrains": {
+    "NAME": "DEPRECATED Telapak Tangan Mengekang",
+    "DESCRIPTION": "Berikan !D! damage. NL Terapkan !M! Lemah."
+  },
+  "Wrath": {
+    "NAME": "Amarah",
+    "DESCRIPTION": "Berikan dan terima damage dua kali lipat."
+  },
+  "Calm": {
+    "NAME": "Teduh",
+    "DESCRIPTION": "Ketika keluar dari Teduh, dapatkan [W] [W]."
+  },
+  "Polymath": {
+    "NAME": "DEPRECATED Polymath",
+    "DESCRIPTION": "Masuk Teduh atau Amarah. NL Hangus."
+  },
+  "Consecrate": {
+    "NAME": "Mempersuci",
+    "DESCRIPTION": "Berikan !D! damage ke SEMUA musuh."
+  },
+  "Flicker": {
+    "NAME": "DEPRECATED Berkedip",
+    "DESCRIPTION": "Berikan !D! damage. Bila ini membunuh musuh, Balikkan ini kembali ke tangan."
+  },
+  "Blasphemy": {
+    "NAME": "Penghujatan",
+    "DESCRIPTION": "Masuk Kedewaan. NL Mati giliran berikutnya. NL Hangus."
+  },
+  "Ragnarok": {
+    "NAME": "Ragnarok",
+    "DESCRIPTION": "Berikan !D! damage ke satu musuh acak !M! kali."
+  },
+  "FlameMastery": {
+    "NAME": "DEPRECATED Penguasaan Api",
+    "DESCRIPTION": "Dapatkan !M! Daya."
+  },
+  "StepAndStrike": {
+    "NAME": "DEPRECATED Langkah dan Serang",
+    "DESCRIPTION": "Lebih murah 1 setiap pergantian Ancang-ancang di giliran ini. NL Dapatkan !B! Blok. NL Berikan !D! damage."
+  },
+  "Survey": {
+    "NAME": "DEPRECATED Survei",
+    "DESCRIPTION": "Dapatkan !B! Blok. NL Dapatkan !M! Gairah."
+  },
+  "Swipe": {
+    "NAME": "DEPRECATED Babat",
+    "DESCRIPTION": "Berikan !D! damage. Berikan setengah damage ini ke semua musuh lainnya."
+  },
+  "Blessed": {
+    "NAME": "DEPRECATED Diberkati",
+    "DESCRIPTION": "Kocok !M! *Mukjizat ke dek ambil. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Kocok !M! *Mukjizat+ ke dek ambil. NL Exhaust."
+  },
+  "LetFateDecide": {
+    "NAME": "DEPRECATED Biarlah Takdir Tentukan",
+    "DESCRIPTION": "Mainkan X kartu teratas dek ambil. Bila X lebih dari 3, Tahan X kartu."
+  }, 
+  "RetreatingHand": {
+    "NAME": "DEPRECATED Tangan Mundur",
+    "DESCRIPTION": "Ethereal. NL Dapatkan !B! Blok. Bila kartu sebelumnya adalah sebuah Serangan, balikkan kartu ini ke tangan.",
+    "UPGRADE_DESCRIPTION": "Dapatkan !B! Blok. Bila kartu sebelumnya adalah sebuah Serangan, balikkan kartu ini ke tangan."
+  },
+  "Flare": {
+    "NAME": "DEPRECATED Flare",
+    "DESCRIPTION": "DEPRECATED."
+  },
+  "PerfectedForm": {
+    "NAME": "DEPRECATED Bentuk sempurna",
+    "DESCRIPTION": "Bila kamu telah masuk ke semua Ancang-ancang dasar di giliran ini, masuk Kedewaan. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Bila kamu telah masuk ke semua Ancang-ancang dasar di giliran ini, masuk Kedewaan."
+  },
+  "AwakenedStrike": {
+    "NAME": "DEPRECATED Serangan menyadarkan",
+    "DESCRIPTION": "Berikan !D! damage."
+  },
+  "EmptyMind": {
+    "NAME": "Kosongkan pikiran Mind",
+    "DESCRIPTION": "Ambil !M! kartu. NL Keluar dair Ancang-ancang.",
+    "UPGRADE_DESCRIPTION": "Ambil !M! kartu. NL keluar dari Ancang-ancang."
+  },
+  "Experienced": {
+    "NAME": "DEPRECATED Berpengalaman",
+    "DESCRIPTION": "Dapatkan !B! Blok untuk setiap kartu Tingkat di tanganmu."
+  },
+  "Judgement": {
+    "NAME": "Penghakiman",
+    "DESCRIPTION": "Bila musuh mempunyai nyawa kurang dari !M!, Ubah darah musuh jadi 0.",
+    "EXTENDED_DESCRIPTION": [
+      "Dihakimi"
+    ]
+  },
+  "Pray": {
+    "NAME": "Doa",
+    "DESCRIPTION": "Dapatkan !M! Mantra. NL Kocok sebuah *Wawasan ke dek ambil.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Conclude": {
+    "NAME": "Simpulkan",
+    "DESCRIPTION": "berikan !D! damage ke SEMUA musuh. NL Akhiri giliranmu."
+  },
+  "LessonLearned": {
+    "NAME": "Pelajaran Diterima",
+    "DESCRIPTION": "Berikan !D! damage. NL Bila ini berhasil membunuh musuh, Tingkatkan kartu acak di dek. Hangus."
+  },
+  "CutThroughFate": {
+    "NAME": "Memotong Takdir",
+    "DESCRIPTION": "Berikan !D! damage. NL Gali !M!. NL Ambil 1 kartu."
+  },
+  "ThirdEye": {
+    "NAME": "Mata Ketiga",
+    "DESCRIPTION": "Dapatkan !B! Blok. NL Gali !M!."
+  },
+  "SublimeSlice": {
+    "NAME": "DEPRECATED Sayatan Mulia",
+    "DESCRIPTION": "Berikan !D! damage. NL Masuk ke Ancang-ancang asal."
+  },
+  "SignatureMove": {
+    "NAME": "Jurus Pamungkas",
+    "DESCRIPTION": "Hanya bisa dimainkan bila ini serangan satu-satunya di tangan. NL Berikan !D! damage." 
+  },
+  "Prediction": {
+    "NAME": "DEPRECATED Prediksi",
+    "DESCRIPTION": "Dapatkan !B! Blok di awal giliran berikutnya."
+  },
+  "Worship": {
+    "NAME": "Menyembah",
+    "DESCRIPTION": "Dapatkan !M! Mantra.",
+    "UPGRADE_DESCRIPTION": "Tahan. NL Dapatkan !M! Mantra."
+  },
+  "Fasting": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED"
+  },
+  "Fasting2": {
+    "NAME": "Puasa",
+    "DESCRIPTION": "Dapatkan !M! Daa. NL Dapatkan !M! Ketangkasan. NL Dapatkan 1 [W] lebih sedikit di setiap giliran."
+  },
+  "DevaForm": {
+    "NAME": "Wujud Deva",
+    "DESCRIPTION": "Ethereal. NL Di awal setiap giliran, dapatkan [W] NL dan tingkatkan pendapatan dengan !M!.",
+    "UPGRADE_DESCRIPTION": "Di awal setiap giliran, dapatkan [W] NL dan tingkatkan pendapatan dengan !M!."
+  },
+  "Wireheading": {
+    "NAME": "Tinjauan Masa Depan",
+    "DESCRIPTION": "Di awal setiap giliran, Gali !M!.",
+    "UPGRADE_DESCRIPTION": "Permulaan. NL Di awal setiap giliran, Gali !M!."
+  },
+  "ReachHeaven": {
+    "NAME": "Menjangkau Surga",
+    "DESCRIPTION": "Berikan !D! damage. NL Acak sebuah NL *Melalui *Kekejian ke dek ambil.",
+	  "UPGRADE_DESCRIPTION": ""
+  },
+  "ThroughViolence": {
+    "NAME": "Melalui Kekejian",
+    "DESCRIPTION": "Tahan. NL Berikan !D! damage. NL Hangus."
+  },
+  "Clarity": {
+    "NAME": "Clarity",
+    "DESCRIPTION": "Look at the top !M! cards of your draw pile. Add 1 to your hand. NL Exhaust the other.",
+    "UPGRADE_DESCRIPTION": "Look at the top !M! cards of your draw pile. Add 1 to your hand. NL Exhaust the rest."
+  },
+  "Thwack": {
+    "NAME": "DEPRECATED Thwack",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "Meditate": {
+    "NAME": "Meditate",
+    "DESCRIPTION": "Put a card from your discard pile into your hand and Retain it. NL Enter Calm. NL End your turn.",
+    "UPGRADE_DESCRIPTION": "Put 2 cards from your discard pile into your hand and Retain them. NL Enter Calm. NL End your turn."
+  },
+  "Miracle": {
+    "NAME": "Miracle",
+    "DESCRIPTION": "Retain. NL Gain [W]. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Gain [W] [W]. NL Exhaust."
+  },
+  "Vault": {
+    "NAME": "Vault",
+    "DESCRIPTION": "Take an extra turn after this one. NL End your turn. NL Exhaust."
+  },
+  "Flow": {
+    "NAME": "DEPRECATED Flow",
+    "DESCRIPTION": "When you play an Attack, gain 1 temporary Dexterity. When you play a Skill, gain 1 temporary Strength."
+  },
+  "CarveReality": {
+    "NAME": "Carve Reality",
+    "DESCRIPTION": "Deal !D! damage. NL Add a *Smite into your hand.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Smite": {
+    "NAME": "Smite",
+    "DESCRIPTION": "Retain. NL Deal !D! damage. NL Exhaust."
+  },
+  "Truth": {
+    "NAME": "Truth",
+    "DESCRIPTION": "Retain. NL Deal !D! damage. NL Draw !M! card. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Deal !D! damage. NL Draw !M! cards. NL Exhaust."
+  },
+  "Insight": {
+    "NAME": "Insight",
+    "DESCRIPTION": "Retain. NL Draw !M! cards. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Draw !M! cards. NL Exhaust."
+  },
+  "DeceiveReality": {
+    "NAME": "Deceive Reality",
+    "DESCRIPTION": "Gain !B! Block. NL Add a *Safety into NL your hand.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Safety": {
+    "NAME": "Safety",
+    "DESCRIPTION": "Retain. NL Gain !B! Block. NL Exhaust."
+  },
+  "Wisdom": {
+    "NAME": "Wisdom",
+    "DESCRIPTION": "Retain. NL Draw !M! cards. NL Exhaust."
+  },
+  "Peace": {
+    "NAME": "Peace",
+    "DESCRIPTION": "Retain. NL ALL enemies lose !M! Strength this turn. NL Exhaust."
+  },
+  "WindmillStrike": {
+    "NAME": "Windmill Strike",
+    "DESCRIPTION": "Retain. NL Deal !D! damage. NL When Retained, increase its damage by !M! this combat."
+  },
+  "Establishment": {
+    "NAME": "Establishment",
+    "DESCRIPTION": "Whenever a card is Retained, reduce its cost by !M! this combat.",
+	  "UPGRADE_DESCRIPTION": "Innate. NL Whenever a card is Retained, reduce its cost by !M! this combat."
+  },
+  "WardAura": {
+    "NAME": "DEPRECATED Ward Aura",
+    "DESCRIPTION": "Retain. NL Gain !B! Block. NL At the start of your turn, gain !M! Block."
+  },
+  "Metaphysics": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED",
+	"UPGRADE_DESCRIPTION": "DEPRECATED"
+  },
+  "Evaluate": {
+    "NAME": "Evaluate",
+    "DESCRIPTION": "Gain !B! Block. NL Shuffle an *Insight into your draw pile.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Shuffle an *Insight+ into your draw pile."
+  },
+  "Devotion": {
+    "NAME": "Devotion",
+    "DESCRIPTION": "At the start of your turn, gain !M! Mantra."
+  },
+  "SoothingAura": {
+    "NAME": "DEPRECATED Soothing Aura",
+    "DESCRIPTION": "Retain. NL Apply !M! Weak. NL At the start of your turn, apply 1 Weak to a random enemy."
+  },
+  "BrillianceAura": {
+    "NAME": "DEPRECATED Brilliance Aura",
+    "DESCRIPTION": "DEPRECATED"
+  },
+  "FuryAura": {
+    "NAME": "DEPRECATED Fury Aura",
+    "DESCRIPTION": "Retain. NL Gain !M! temporary Strength. NL At the start of your turn, gain 1 temporary Strength."
+  },
+  "DeusExMachina": {
+    "NAME": "Deus Ex Machina",
+    "DESCRIPTION": "Unplayable. NL When you draw this card, add !M! *Miracles to your hand and Exhaust."
+  },
+  "CleanseEvil": {
+    "NAME": "Cleanse Evil",
+    "DESCRIPTION": "Add X *Smite into your hand.",
+    "UPGRADE_DESCRIPTION": "Add X *Smite+ into your hand."
+  },
+  "Torrent": {
+    "NAME": "DEPRECATED Torrent",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies !M! times. NL Exhaust."
+  },
+  "Windup": {
+    "NAME": "DEPRECATED Windup",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Vigor."
+  },
+  "Shield": {
+    "NAME": "DEPRECATED Shield",
+    "DESCRIPTION": "Retain. NL Gain !B! Block. NL Exhaust."
+  },
+  "CrescentKick": {
+    "NAME": "DEPRECATED Crescent Kick",
+    "DESCRIPTION": "Deal !D! damage. NL If you have Vigor, NL gain [W] and NL draw 1 card."
+  },
+  "TalkToTheHand": {
+    "NAME": "Talk to the Hand",
+    "DESCRIPTION": "Deal !D! damage. NL Whenever you attack this enemy, gain !M! Block. NL Exhaust."
+  },
+  "BattleHymn": {
+    "NAME": "Battle Hymn",
+    "DESCRIPTION": "At the start of each turn add a *Smite into your hand.",
+	"UPGRADE_DESCRIPTION": "Innate. NL At the start of each turn add a *Smite into your hand."
+  },
+  "Prostrate": {
+    "NAME": "Prostrate",
+    "DESCRIPTION": "Gain !M! Mantra. NL Gain !B! Block.",
+    "UPGRADE_DESCRIPTION": "DEPRECATED"
+  },
+  "Punishment": {
+    "NAME": "DEPRECATED Punishment",
+    "DESCRIPTION": "Enter Punishment Stance."
+  },
+  "Eruption": {
+    "NAME": "Eruption",
+    "DESCRIPTION": "Deal !D! damage. NL Enter Wrath."
+  },
+  "ClearTheMind": {
+    "NAME": "Tranquility",
+    "DESCRIPTION": "Retain. NL Enter Calm. NL Exhaust."
+  },
+  "WaveOfTheHand": {
+    "NAME": "Wave of the Hand",
+    "DESCRIPTION": "Whenever you gain Block this turn, apply !M! Weak to ALL enemies."
+  },
+  "SpiritShield": {
+    "NAME": "Spirit Shield",
+    "DESCRIPTION": "Gain !M! Block for each card in your hand.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Gain !B! Block.)"
+    ]
+  },
+  "Vigilance": {
+    "NAME": "Vigilance",
+    "DESCRIPTION": "Gain !B! Block. NL Enter Calm.",
+    "UPGRADE_DESCRIPTION": "Deprecated."
+  },
+  "Serenity": {
+    "NAME": "DEPRECATED Serenity",
+    "DESCRIPTION": "While you are in Calm, HP loss is reduced by !M!."
+  },
+  "Crescendo": {
+    "NAME": "Crescendo",
+    "DESCRIPTION": "Retain. NL Enter Wrath. NL Exhaust."
+  },
+  "Transcendence": {
+    "NAME": "Transcendence",
+    "DESCRIPTION": "Upgrade all cards that Retain in your hand."
+  },
+  "FollowUp": {
+    "NAME": "Follow-Up",
+    "DESCRIPTION": "Deal !D! damage. NL If the last card played this combat was an Attack, gain [W]."
+  },
+  "Perseverance": {
+    "NAME": "Perseverance",
+    "DESCRIPTION": "Retain. NL Gain !B! Block. NL When Retained, increase its Block by !M! this combat."
+  },
+  "CrushJoints": {
+    "NAME": "Crush Joints",
+    "DESCRIPTION": "Deal !D! damage. NL If the last card played this combat was a Skill, apply !M! Vulnerable."
+  },
+  "SashWhip": {
+    "NAME": "Sash Whip",
+    "DESCRIPTION": "Deal !D! damage. NL If the last card played this combat was an Attack, apply !M! Weak."
+  },
+  "Sanctity": {
+    "NAME": "Sanctity",
+    "DESCRIPTION": "Gain !B! Block. NL If the last card played this combat was a Skill, draw !M! cards."
+  },
+  "Omniscience": {
+    "NAME": "Omniscience",
+    "DESCRIPTION": "Choose a card in your draw pile. NL Play the chosen card twice and exhaust it. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Scrawl": {
+    "NAME": "Scrawl",
+    "DESCRIPTION": "Draw cards until your hand is full. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Swivel": {
+    "NAME": "Swivel",
+    "DESCRIPTION": "Gain !B! Block. NL The next Attack you play costs 0."
+  },
+  "Protect": {
+    "NAME": "Protect",
+    "DESCRIPTION": "Retain. NL Gain !B! Block."
+  },
+  "FlyingSleeves": {
+    "NAME": "Flying Sleeves",
+    "DESCRIPTION": "Retain. NL Deal !D! damage twice."
+  },
+  "MasterReality": {
+    "NAME": "Master Reality",
+    "DESCRIPTION": "Whenever a card is created during combat, Upgrade it."
+  },
+  "BowlingBash": {
+    "NAME": "Bowling Bash",
+    "DESCRIPTION": "Deal !D! damage for each enemy in combat."
+  },
+  "Unraveling": {
+    "NAME": "Unraveling",
+    "DESCRIPTION": "Play all of your cards from left to right. Targets are chosen randomly. NL Exhaust."
+  },
+  "BigBrain": {
+    "NAME": "DEPRECATED Big Brain",
+    "DESCRIPTION": "Retain. NL Draw 1 card. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Draw 1 card."
+  },
+  "SandsOfTime": {
+    "NAME": "Sands of Time",
+    "DESCRIPTION": "Retain. NL Deal !D! damage. NL When Retained, lower its cost by 1 this combat."
+  },
+  "Brilliance": {
+    "NAME": "Brilliance",
+    "DESCRIPTION": "Ethereal. NL Heal !M! HP X times. NL Exhaust.",
+    "EXTENDED_DESCRIPTION": [
+      ""
+    ]
+  },
+  "Retribution": {
+    "NAME": "DEPRECATED Retribution",
+    "DESCRIPTION": "Whenever you lose HP, gain !M! Vigor."
+  },
+  "JustLucky": {
+    "NAME": "Just Lucky",
+    "DESCRIPTION": "Scry !M!. NL Gain !B! Block. NL Deal !D! damage."
+  },
+  "Weave": {
+    "NAME": "Weave",
+    "DESCRIPTION": "Deal !D! damage. NL Whenever you Scry, return this from the discard pile to your Hand."
+  },
+  "Adaptation": {
+    "NAME": "Rushdown",
+    "DESCRIPTION": "Whenever you enter Wrath, draw !M! cards.",
+    "UPGRADE_DESCRIPTION": "DEPRECATED"
+  },
+  "Causality": {
+    "NAME": "Causality",
+    "DESCRIPTION": "Draw cards until your hand is full. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Draw cards until your hand is full. NL Exhaust."
+  },
+  "Wish": {
+    "NAME": "Wish",
+    "DESCRIPTION": "Choose one: NL Gain !B! Plated Armor each turn, !D! Strength, or !M! Gold. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "CurseOfTheBell": {
+    "NAME": "Curse of the Bell",
+    "DESCRIPTION": "Unplayable. NL Cannot be removed from your deck."
+  },
+  "InnerPeace": {
+    "NAME": "Inner Peace",
+    "DESCRIPTION": "If you are in Calm, draw !M! cards, otherwise enter Calm."
+  },
+  "Tantrum": {
+    "NAME": "Tantrum",
+    "DESCRIPTION": "Deal !D! damage NL !M! times. NL Enter Wrath. NL Shuffle this card into your draw pile."
+  },
+  "Alpha": {
+    "NAME": "Alpha",
+    "DESCRIPTION": "Shuffle a *Beta into your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Shuffle a *Beta into your draw pile. NL Exhaust."
+  },
+  "Beta": {
+    "NAME": "Beta",
+    "DESCRIPTION": "Shuffle an *Omega into your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Shuffle an *Omega+ into your draw pile. NL Exhaust."
+  },
+  "Omega": {
+    "NAME": "Omega",
+    "DESCRIPTION": "At the end of your turn, deal !M! damage to ALL enemies."
+  },
+  "Vengeance": {
+    "NAME": "Simmering Fury",
+    "DESCRIPTION": "Scry !M!. NL Enter Wrath at the start of your next turn."
+  },
+  "PathToVictory": {
+    "NAME": "Path to Victory",
+    "DESCRIPTION": "Apply !M! *Mark. NL ALL enemies lose HP equal to their *Mark.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Wallop": {
+    "NAME": "Wallop",
+    "DESCRIPTION": "Deal !D! damage. NL Gain Block equal to unblocked damage dealt."
+  },
+  "Halt": {
+    "NAME": "Halt",
+    "DESCRIPTION": "Gain !B! Block. NL If you are in Wrath, gain !M! additional Block."
+  },
+  "WheelKick": {
+    "NAME": "Wheel Kick",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards.",
+    "UPGRADE_DESCRIPTION": ""
+  },
+  "Indignation": {
+    "NAME": "Indignation",
+    "DESCRIPTION": "If you are in Wrath, apply !M! Vulnerable to ALL enemies, otherwise enter Wrath."
+  },
+  "BecomeAlmighty": {
+    "NAME": "Become Almighty",
+    "DESCRIPTION": "Gain !M! Strength."
+  },
+  "LiveForever": {
+    "NAME": "Live Forever",
+    "DESCRIPTION": "At the end of your turn, gain !M! Plated Armor."
+  },
+  "FameAndFortune": {
+    "NAME": "Fame and Fortune",
+    "DESCRIPTION": "Gain !M! Gold."
+  },
+  "ConjureBlade": {
+    "NAME": "Conjure Blade",
+    "DESCRIPTION": "Shuffle an *Expunger into your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Shuffle an *Expunger with X+1 into your draw pile. NL Exhaust."
+  },
+  "Expunger": {
+    "NAME": "Expunger",
+    "DESCRIPTION": "Deal !D! damage X times.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage X+1 times.",
+    "EXTENDED_DESCRIPTION": [
+      "Deal !D! damage !M! times."
+    ]
+  },
+  "WaveOfTheHand2": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTION": "DEPRECATED"
+  },
+  "Discipline": {
+    "NAME": "DEPRECATED Discipline",
+    "DESCRIPTION": "If you end your turn with unused [W] , draw that many additional cards next turn."
+  },
+  "Flick": {
+    "NAME": "DEPRECATED Flick",
+    "DESCRIPTION": "Deal !D! damage. NL If an enemy is *Flicked 3 times, they take !M! damage."
+  },
+  "LikeWater": {
+    "NAME": "Like Water",
+    "DESCRIPTION": "At the end of your turn, if you are in Calm, gain !M! Block."
   }
 }
