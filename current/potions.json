@@ -232,7 +232,76 @@
     "NAME": "Ramuan Pengganda",
     "DESCRIPTIONS": [
       "Giliran ini, kartu selanjutnya dimainkan dua kali.",
-      "Giliran ini, #b2 kartu selanjutnya dimainkan dua kali.","
+      "Giliran ini, #b2 kartu selanjutnya dimainkan dua kali."
+    ]
+  },
+  "ElixirPotion": {
+    "NAME": "Elixir",
+    "DESCRIPTIONS": [
+      "#yHangus kan kartu sebanyak apapun dari tanganmu."
+    ]
+  },
+  "HeartOfIron": {
+    "NAME": "Jiwa Baja",
+    "DESCRIPTIONS": [
+      "Dapatkan #b",
+      " #yKuat #yLogam."
+    ]
+  },
+  "CunningPotion": {
+    "NAME": "Ramuan Cerdik",
+    "DESCRIPTIONS": [
+      "Tambahkan #b",
+      " #yShiv+ ke tangan."
+    ]
+  },
+  "PotionOfCapacity": {
+    "NAME": "Ramuan Kapasitas",
+    "DESCRIPTIONS": [
+      "Dapatkan #b",
+      " petak Orb."
+    ]
+  },
+  "EssenceOfDarkness": {
+    "NAME": "Intisari Kegelapan",
+    "DESCRIPTIONS": [
+      "#ySalur #b",
+	  " #yKegelapan untuk setiap petak Orb."
+    ]
+  },
+  "BottledMiracle": {
+    "NAME": "Mukjizat Tersimpan",
+    "DESCRIPTIONS": [
+      "Tambahkan #b",
+      " #yMukjizat ke tangan."
+    ]
+  },
+  "Ambrosia": {
+    "NAME": "Ambrosia",
+    "DESCRIPTIONS": [
+      "Masuk #yAncang-ancang #yKeilahian."
+    ]
+  },
+  "DistilledChaos": {
+    "NAME": "Kekacauan Sulingan",
+    "DESCRIPTIONS": [
+      "Mainkan #b kartu",
+      " teratas dari dek ambil."
+    ]
+  },
+  "LiquidMemories": {
+    "NAME": "Kenangan Cair",
+    "DESCRIPTIONS": [
+	  "Mainkan sebuah kartu dari dek buang dan balikkan ke tangan. harganya #b0 di giliran ini.",
+      "Pilih #b",
+	  " kartu dari dek buang dan balikkan ke tangan. Harganya #b0 di giliran ini."
+    ]
+  },
+  "CultistPotion": {
+    "NAME": "Ramuan Sang Pemuja",
+    "DESCRIPTIONS": [
+      "Dapatkan #b",
+      " #yRitual."
     ]
   }
 }

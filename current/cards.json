@@ -1383,7 +1383,7 @@
   },
   "Survey": {
     "NAME": "DEPRECATED Survei",
-    "DESCRIPTION": "Dapatkan !B! Blok. NL Dapatkan !M! Gairah."
+    "DESCRIPTION": "Dapatkan !B! Blok. NL Dapatkan !M! Semangat."
   },
   "Swipe": {
     "NAME": "DEPRECATED Babat",
@@ -1498,80 +1498,80 @@
     "DESCRIPTION": "Tahan. NL Berikan !D! damage. NL Hangus."
   },
   "Clarity": {
-    "NAME": "Clarity",
-    "DESCRIPTION": "Look at the top !M! cards of your draw pile. Add 1 to your hand. NL Exhaust the other.",
-    "UPGRADE_DESCRIPTION": "Look at the top !M! cards of your draw pile. Add 1 to your hand. NL Exhaust the rest."
+    "NAME": "Kejelasan",
+    "DESCRIPTION": "Lihat kartu !M! teratas dari dek ambil. Ambil 1 ke tangan. NL Hanguskan yang lain.",
+    "UPGRADE_DESCRIPTION": "Lihat kartu !M! teratas dari dek ambil. Ambil 1 ke tangan. NL Hanguskan yang lain."
   },
   "Thwack": {
     "NAME": "DEPRECATED Thwack",
-    "DESCRIPTION": "Deal !D! damage."
+    "DESCRIPTION": "Berikan !D! damage."
   },
   "Meditate": {
-    "NAME": "Meditate",
-    "DESCRIPTION": "Put a card from your discard pile into your hand and Retain it. NL Enter Calm. NL End your turn.",
-    "UPGRADE_DESCRIPTION": "Put 2 cards from your discard pile into your hand and Retain them. NL Enter Calm. NL End your turn."
+    "NAME": "Renungan",
+    "DESCRIPTION": "Taruh 1 kartu dari dek buang ke tangan dan Tahan itu. NL Masuk Teduh. NL Akhiri giliranmu.",
+    "UPGRADE_DESCRIPTION": "Taruh 2 kartu dari dek buang ke tangan dan Tahan itu. NL Masuk Teduh. NL Akhiri giliranmu."
   },
   "Miracle": {
-    "NAME": "Miracle",
-    "DESCRIPTION": "Retain. NL Gain [W]. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Retain. NL Gain [W] [W]. NL Exhaust."
+    "NAME": "Mukjizat",
+    "DESCRIPTION": "Tahan. NL Dapatkan [W]. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Tahan. NL Dapatkan [W] [W]. NL Hangus."
   },
   "Vault": {
-    "NAME": "Vault",
-    "DESCRIPTION": "Take an extra turn after this one. NL End your turn. NL Exhaust."
+    "NAME": "Salto",
+    "DESCRIPTION": "Dapatkan giliran extra setelah giliran ini. NL Akhiri giliranmu. NL Hangus."
   },
   "Flow": {
-    "NAME": "DEPRECATED Flow",
-    "DESCRIPTION": "When you play an Attack, gain 1 temporary Dexterity. When you play a Skill, gain 1 temporary Strength."
+    "NAME": "DEPRECATED Mengalir",
+    "DESCRIPTION": "Ketika kamu memainkan Serangan, Dapatkan 1 Ketangkasan sementara. Ketika kamu memainkan Jurus, dapatkan 1 Daya sementara."
   },
   "CarveReality": {
-    "NAME": "Carve Reality",
-    "DESCRIPTION": "Deal !D! damage. NL Add a *Smite into your hand.",
+    "NAME": "Ukir Kenyataan",
+    "DESCRIPTION": "Dapatkan !D! damage. NL Tambahkan sebuah *Jalar ke tangan.",
     "UPGRADE_DESCRIPTION": ""
   },
-  "Smite": {
-    "NAME": "Smite",
-    "DESCRIPTION": "Retain. NL Deal !D! damage. NL Exhaust."
+  "Jalar": {
+    "NAME": "Jalar",
+    "DESCRIPTION": "Tahan. NL Berikan !D! damage. NL Hangus."
   },
   "Truth": {
-    "NAME": "Truth",
-    "DESCRIPTION": "Retain. NL Deal !D! damage. NL Draw !M! card. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Retain. NL Deal !D! damage. NL Draw !M! cards. NL Exhaust."
+    "NAME": "Hakekat",
+    "DESCRIPTION": "Tahan. NL berikan !D! damage. NL Ambil !M! kartu. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Tahan. NL Berikan !D! damage. NL Ambil !M! kartu. NL Hangus."
   },
   "Insight": {
-    "NAME": "Insight",
-    "DESCRIPTION": "Retain. NL Draw !M! cards. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Retain. NL Draw !M! cards. NL Exhaust."
+    "NAME": "Wawasan",
+    "DESCRIPTION": "Tahan. NL Ambil !M! kartu. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Tahan. NL Ambil !M! kartu. NL Hangus."
   },
   "DeceiveReality": {
-    "NAME": "Deceive Reality",
-    "DESCRIPTION": "Gain !B! Block. NL Add a *Safety into NL your hand.",
+    "NAME": "Tipu Kenyataan",
+    "DESCRIPTION": "Dapatkan !B! Blok. NL Taruh sebuah *Keselamatan ke NL tanganmu.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Safety": {
-    "NAME": "Safety",
-    "DESCRIPTION": "Retain. NL Gain !B! Block. NL Exhaust."
+    "NAME": "Keselamatan",
+    "DESCRIPTION": "Tahan. NL Dapatkan !B! Blok. NL Hangus."
   },
   "Wisdom": {
-    "NAME": "Wisdom",
-    "DESCRIPTION": "Retain. NL Draw !M! cards. NL Exhaust."
+    "NAME": "Hikmah",
+    "DESCRIPTION": "Tahan. NL Ambil !M! kartu. NL Hangus."
   },
   "Peace": {
-    "NAME": "Peace",
-    "DESCRIPTION": "Retain. NL ALL enemies lose !M! Strength this turn. NL Exhaust."
+    "NAME": "Kedamaian",
+    "DESCRIPTION": "Tahan. NL SEMUA musuh kehilangan !M! Daya giliran ini. NL Hangus."
   },
   "WindmillStrike": {
-    "NAME": "Windmill Strike",
-    "DESCRIPTION": "Retain. NL Deal !D! damage. NL When Retained, increase its damage by !M! this combat."
+    "NAME": "Serangan Tornado",
+    "DESCRIPTION": "Tahan. NL Berikan !D! damage. NL Ketika di Tahan, naikkan damage kartu ini dengan !M! di pertarungan ini."
   },
   "Establishment": {
-    "NAME": "Establishment",
-    "DESCRIPTION": "Whenever a card is Retained, reduce its cost by !M! this combat.",
-	  "UPGRADE_DESCRIPTION": "Innate. NL Whenever a card is Retained, reduce its cost by !M! this combat."
+    "NAME": "Penetapan",
+    "DESCRIPTION": "Setiap kali kartu di Tahan, kurangi harganya dengan !M! di pertarungan ini.",
+	  "UPGRADE_DESCRIPTION": "Pemulaan. NL Setiap kali kartu di Tahan, kurangi harganya dengan !M! di pertarungan ini."
   },
   "WardAura": {
-    "NAME": "DEPRECATED Ward Aura",
-    "DESCRIPTION": "Retain. NL Gain !B! Block. NL At the start of your turn, gain !M! Block."
+    "NAME": "DEPRECATED Aura Tangkalan",
+    "DESCRIPTION": "Tahan. NL Dapatkan !B! Blok. NL Di setiap awal giliran, dapatkan !M! Blok."
   },
   "Metaphysics": {
     "NAME": "DEPRECATED",
@@ -1579,50 +1579,50 @@
 	"UPGRADE_DESCRIPTION": "DEPRECATED"
   },
   "Evaluate": {
-    "NAME": "Evaluate",
-    "DESCRIPTION": "Gain !B! Block. NL Shuffle an *Insight into your draw pile.",
-    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Shuffle an *Insight+ into your draw pile."
+    "NAME": "Evaluasi",
+    "DESCRIPTION": "Dapatkan !B! Blok. NL Kocok sebuah *Wawasan ke dek ambil.",
+    "UPGRADE_DESCRIPTION": "Dapatkan !B! Blok. NL Kocok sebuah *Wawasan+ ke dek ambil."
   },
   "Devotion": {
-    "NAME": "Devotion",
-    "DESCRIPTION": "At the start of your turn, gain !M! Mantra."
+    "NAME": "Kesetiaan",
+    "DESCRIPTION": "Di setiap awal giliran, dapatkan !M! Mantra."
   },
   "SoothingAura": {
-    "NAME": "DEPRECATED Soothing Aura",
-    "DESCRIPTION": "Retain. NL Apply !M! Weak. NL At the start of your turn, apply 1 Weak to a random enemy."
+    "NAME": "DEPRECATED Aura Menenangkan",
+    "DESCRIPTION": "Tahan. NL Berikan !M! Lemah. NL Di setiap awal giliran, berikan 1 Lemah ke musuh asal."
   },
   "BrillianceAura": {
-    "NAME": "DEPRECATED Brilliance Aura",
+    "NAME": "DEPRECATED Aura Kecemerlangan",
     "DESCRIPTION": "DEPRECATED"
   },
   "FuryAura": {
-    "NAME": "DEPRECATED Fury Aura",
-    "DESCRIPTION": "Retain. NL Gain !M! temporary Strength. NL At the start of your turn, gain 1 temporary Strength."
+    "NAME": "DEPRECATED Aura Amukan",
+    "DESCRIPTION": "Tahan. NL Dapatkan !M! Daya sementara. NL Di setiap awal giliran, dapatkan 1 Daya sementara."
   },
   "DeusExMachina": {
     "NAME": "Deus Ex Machina",
-    "DESCRIPTION": "Unplayable. NL When you draw this card, add !M! *Miracles to your hand and Exhaust."
+    "DESCRIPTION": "Statis. NL ketika kamu mengambil kartu ini, tambahkan !M! *Mukjizat ke tanganmu dan Hangus."
   },
   "CleanseEvil": {
-    "NAME": "Cleanse Evil",
-    "DESCRIPTION": "Add X *Smite into your hand.",
-    "UPGRADE_DESCRIPTION": "Add X *Smite+ into your hand."
+    "NAME": "Bersihkan Kejahatan",
+    "DESCRIPTION": "Tambahkan X *Jalar ke tanganmu.",
+    "UPGRADE_DESCRIPTION": "Tambahkan X *Jalar+ ke tanganmu."
   },
   "Torrent": {
-    "NAME": "DEPRECATED Torrent",
-    "DESCRIPTION": "Deal !D! damage to ALL enemies !M! times. NL Exhaust."
+    "NAME": "DEPRECATED Curahan Deras",
+    "DESCRIPTION": "Berikan !D! damage ke SEMUA musuh !M! kali. NL Hangus."
   },
   "Windup": {
     "NAME": "DEPRECATED Windup",
     "DESCRIPTION": "Deal !D! damage. NL Gain !M! Vigor."
   },
   "Shield": {
-    "NAME": "DEPRECATED Shield",
-    "DESCRIPTION": "Retain. NL Gain !B! Block. NL Exhaust."
+    "NAME": "DEPRECATED Tameng",
+    "DESCRIPTION": "Tahan. NL Dapatkan !B! Blok. NL Hangus."
   },
   "CrescentKick": {
-    "NAME": "DEPRECATED Crescent Kick",
-    "DESCRIPTION": "Deal !D! damage. NL If you have Vigor, NL gain [W] and NL draw 1 card."
+    "NAME": "DEPRECATED Tendangan Sabit",
+    "DESCRIPTION": "Berikan !D! damage. NL Bila kamu punya G Vigor, NL gain [W] and NL draw 1 card."
   },
   "TalkToTheHand": {
     "NAME": "Talk to the Hand",
@@ -1630,8 +1630,8 @@
   },
   "BattleHymn": {
     "NAME": "Battle Hymn",
-    "DESCRIPTION": "At the start of each turn add a *Smite into your hand.",
-	"UPGRADE_DESCRIPTION": "Innate. NL At the start of each turn add a *Smite into your hand."
+    "DESCRIPTION": "At the start of each turn add a *Jalar into your hand.",
+	"UPGRADE_DESCRIPTION": "Innate. NL At the start of each turn add a *Jalar into your hand."
   },
   "Prostrate": {
     "NAME": "Prostrate",
@@ -1861,11 +1861,11 @@
     "DESCRIPTION": "If you end your turn with unused [W] , draw that many additional cards next turn."
   },
   "Flick": {
-    "NAME": "DEPRECATED Flick",
+    "NAME": "DEPRECATED Sentil",
     "DESCRIPTION": "Deal !D! damage. NL If an enemy is *Flicked 3 times, they take !M! damage."
   },
   "LikeWater": {
-    "NAME": "Like Water",
-    "DESCRIPTION": "At the end of your turn, if you are in Calm, gain !M! Block."
+    "NAME": "bagaikan Air",
+    "DESCRIPTION": "Di setiap akhir giliran, Bila kamu sedang Teduh, dapatkan !M! Blok."
   }
 }
