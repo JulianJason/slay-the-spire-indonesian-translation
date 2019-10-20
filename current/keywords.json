@@ -304,6 +304,12 @@
         "regen"
       ],
       "DESCRIPTION": "Regen menyembuhkan HP pada akhir giliran. Tiap giliran, Regen berkurang sebanyak #b1."
+    },
+    "RITUAL": {
+      "NAMES": [
+        "ritual"
+      ],
+      "DESCRIPTION": "Dapatkan #yDaya di akhir giliranmu turn."
     }
   }
 }

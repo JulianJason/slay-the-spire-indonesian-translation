@@ -1011,5 +1011,291 @@
     "DESCRIPTIONS": [
       "Memberi #b50% lebih damage karena menyerangmu dari belakang."
     ]
+  },
+  "Vigor": {
+    "NAME": "Gairah",
+    "DESCRIPTIONS": [
+      "Serangan berikutmu memberi #b",
+      " damage lebih."
+    ]
+  },
+  "Condense": {
+    "NAME": "DEPRECATED Memadat",
+    "DESCRIPTIONS": [
+      "Kamu tidak dapat menerima damage lebih dari #b",
+      " dari serangan apapun."
+    ]
+  },
+  "Grounded": {
+    "NAME": "DEPRECATED Tertanam",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu memainkan #yJurus, masuk #yTeduh."
+    ]
+  },
+  "Adaptation": {
+    "NAME": "Rushdown",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu memasuki #yAmarah, amibl #b",
+      " kartu.",
+      " kartu."
+    ]
+  },
+  "Mastery": {
+    "NAME": "DEPRECATED Penguasaan",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu merupaya merubah Ancang-ancang ke Ancang-ancang yang telah aktif, dapatkan #b",
+      " [W]."
+    ]
+  },
+  "Controlled": {
+    "NAME": "Mental Baja",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu mengubah #yAncang-ancang, dapatkan #b",
+      " #yBlok."
+    ]
+  },
+  "HotHot": {
+    "NAME": "DEPRECATED Panas-panas",
+    "DESCRIPTIONS": [
+      "Bila kamu dalam Ancang-ancang #yAmarah, berikan #b",
+      " damage kembali setiap kali kamu menerima damage."
+    ]
+  },
+  "FreeToPlayPower": {
+    "NAME": "DEPRECATED KekuatanGratisan",
+    "DESCRIPTIONS": [
+      "Abaikan harga energi di kartu yang akan dimainkan berikut ini.",
+      "Abaikan harga energi di #b",
+      " kartu yang dimainkan berikut ini."
+    ]
+  },
+  "Collect": {
+    "NAME": "Tuai",
+    "DESCRIPTIONS": [
+      "Di awal giliran berikutmu, taruh sebuah #yMukjizat+ ke tanganmu.",
+      "Di awal #b",
+      " giliran berikutmu, taruh sebuah #yMukjizat+ ke tanganmu."
+    ]
+  },
+  "EmotionalTurmoilPower": {
+    "NAME": "DEPRECATED Kekacauan emosional",
+    "DESCRIPTIONS": [
+      "Di setiap awal giliran, masuki Ancang-ancang asal."
+    ]
+  },
+  "Serenity": {
+    "NAME": "DEPRECATED Kedamaian",
+    "DESCRIPTIONS": [
+      "Ketika kamu dalam #yTeduh, kekurangan HP dikurangi #b"
+    ]
+  },
+  "EndTurnDeath": {
+    "NAME": "Penghujat",
+    "DESCRIPTIONS": [
+      "Di awal giliranmu, mati."
+    ]
+  },
+  "AlwaysMad": {
+    "NAME": "DEPRECATED Selalu Gila",
+    "DESCRIPTIONS": [
+      "Tidak lagi menerima damage dobel ketika sedang dalam #yAmarah."
+    ]
+  },
+  "Mantra": {
+    "NAME": "Mantra",
+    "DESCRIPTIONS": [
+      "Ketika kamu mendapat #b",
+      " #yMantra, masuki #yKeilahian."
+    ]
+  },
+  "AngelForm": {
+    "NAME": "Hidup kekal",
+    "DESCRIPTIONS": [
+      "Di akhir giliranmu, dapatkan #b",
+      " #yBaja #yBerlapis."
+    ]
+  },
+  "WireheadingPower": {
+    "NAME": "Ramalan",
+	"DESCRIPTIONS": [
+    "Di awal giliranmu, #yGali #b",
+    "."
+	]
+  },
+  "Vault": {
+    "NAME": "Salto",
+  "DESCRIPTIONS": [
+    "Terima #b",
+    " damage di awal giliran berikutmu."
+  ]
+  },
+  "FlowPower": {
+    "NAME": "DEPRECATED Kuasa Aliran",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu memainkan sebuah Serangan, dapatkan #b",
+      " #yDaya sementara. setiap kali kamu memainkan sebuah Jurus, dapatkan #b,",
+	  " #yKetangkasan sementara."
+    ]
+  },
+  "EstablishmentPower": {
+    "NAME": "Pendirian",
+    "DESCRIPTIONS": [
+    "Setiap kali kartu #yDitahan, kurangi harganya dengan #b",
+    "."
+	]
+  },
+  "DevotionPower": {
+    "NAME": "Kesetiaan",
+    "DESCRIPTIONS": [
+    "Di setiap awal giliran, dapatkan #b",
+    " #yMantra."
+	]
+  },
+  "BlockReturnPower": {
+    "NAME": "Blok Ulang",
+    "DESCRIPTIONS": [
+    "ketika diserang, kamu mendapatkan #b",
+    " #yBlok."
+  ]
+  },
+  "BattleHymn": {
+    "NAME": "Iringan Peperangan",
+    "DESCRIPTIONS": [
+     "Di awal giliranmu, tambahkan #b",
+     " #yHujat ke tanganmu.",
+     " #yHujat ke tanganmu."
+  ]
+  },
+  "FreeAttackPower": {
+    "NAME": "Serangan Gratis",
+    "DESCRIPTIONS": [
+      "Abaikan harga di #ySerangan berikutnya yang akan kamu mainkan.",
+      "Abaikan harga di #b",
+      " #ySerangan berikutnya yang akan kamu mainkan."
+    ]
+  },
+  "NoSkills": {
+    "NAME": "Tiada Jurus",
+    "DESCRIPTIONS": [
+      "Kamu tidak dapat memainkan #yJurus di giliran ini."
+    ]
+  },
+  "MasterRealityPower": {
+    "NAME": "Penguasa Realitas",
+    "DESCRIPTIONS": [
+      "Setiap kali kartu diciptakan, itu telah di#yTingkatkan.",
+      "deprecated",
+      "deprecated",
+      "deprecated"
+    ]
+  },
+  "StrikeUp": {
+    "NAME": "Strike Up",
+    "DESCRIPTIONS": [
+      "Kartu dengan #yStrike memberi #b",
+      " damage lebih."
+    ]
+  },
+  "Retribution": {
+    "NAME": "DEPRECATED Pembalasan",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu kehilangan HP, dapatkan #b",
+      " #yGairah."
+    ]
+  },
+  "CannotChangeStancePower": {
+    "NAME": "Kunci Ancang-ancang",
+    "DESCRIPTIONS": [
+      "Tidak dapat mengubah Ancang-ancang di giliran ini."
+    ]
+  },
+  "OmegaPower": {
+    "NAME": "Omega",
+    "DESCRIPTIONS": [
+      "Di akhir giliranmu, berikan #b",
+      " damage ke SEMUA musuh."
+    ]
+  },
+  "DuplicationPower": {
+    "NAME": "Duplikasi",
+    "DESCRIPTIONS": [
+      "Kartu berikutmu dimainkan dua kali di giliran ini.",
+      "#b kartu berikutmu",
+      " dimainkan dua kali di giliran ini."
+    ]
+  },
+  "WrathNextTurnPower": {
+    "NAME": "Amukan mendidih",
+    "DESCRIPTIONS": [
+      "Masuki #yAmarah di awal giliranmu."
+    ]
+  },
+  "DevaForm": {
+    "NAME": "Deva",
+    "DESCRIPTIONS": [
+      "di setiap awal giliranmu, dapatkan [W] ",
+      "di setiap awal giliranmu, dapakan [W] #b",
+      " kali ",
+      "dan naikkan ini #b",
+      ".",
+      "TRANSLATE NOTE: At the start of your turn, gain [W] #b2 times and increase this by #b1."
+    ]
+  },
+  "OmnisciencePower": {
+    "NAME": "Kemahatahuan",
+    "DESCRIPTIONS": [
+      "DEPERCATED",
+      "DEPRECATED"
+    ]
+  },
+  "WaveOfTheHandPower": {
+    "NAME": "Lambaian Tangan",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu mendapat #yBlok, Terapkan #b",
+      " #yLemah ke SEMUA musuh."
+    ]
+  },
+  "WaveOfTheHandPower2": {
+    "NAME": "DEPRECATED",
+    "DESCRIPTIONS": [
+      "DEPRECATED",
+      "DEPRECATED"
+    ]
+  },
+  "EnergyDownPower": {
+    "NAME": "Puasa",
+    "DESCRIPTIONS": [
+      "Di awal giliranmu, kalah ",
+      ""
+    ]
+  },
+  "DisciplinePower": {
+    "NAME": "DEPRECATED Disiplin",
+    "DESCRIPTIONS": [
+      "Bila kamu mengahiri giliran dengan sisa [W] , ambil segitu banyak kartu lebih di giliran berikutmu."
+    ]
+  },
+  "FlickPower": {
+    "NAME": "DEPRECATED Sentil",
+    "DESCRIPTIONS": [
+      "Setiap kali musuh ini di #ySentil #b",
+      "2 kali lagi, ia menerima #b",
+      "1 kali lagi, ia menerima #b",
+      " damage."
+    ]
+  },
+  "PathToVictoryPower": {
+    "NAME": "Tandai",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu memainkan #yJalan #yMenuju #yKemenangan, hilang #b",
+      " HP."
+    ]
+  },
+  "LikeWaterPower": {
+    "NAME": "Bagaikan Air",
+    "DESCRIPTIONS": [
+      "Di akhir giliranmu, bila kamu sedang #yTeduh, dapatkan #b",
+      " #yBlok."
+    ]
   }
 }
