@@ -1357,5 +1357,140 @@
       " #yEmas. Tidak lagi bekerja ketika kamu menggunakan #yEmas di toko.",
       "Pusaka ini telah habis digunakan."
     ]
-  }
+  },
+  "Melange": {
+    "NAME": "Melange",
+    "FLAVOR": "Pasir misterius dari asal tak diketahui. Harum seperti kayu manis.",
+    "DESCRIPTIONS": [
+      "Setiap kali kalu mengacak dek ambil, #yGali #b",
+      "."
+    ]
+  },
+  "PureWater": {
+    "NAME": "Air Murni",
+    "FLAVOR": "Di filter melaui pasir halus dan bebas dari kotoran.",
+    "DESCRIPTIONS": [
+      "Di setiap awal pertarungan, Tambah sebuah #yMukjizat ke tangan."
+    ]
+  },
+  "HolyWater": {
+    "NAME": "Air Suci",
+    "FLAVOR": "TODO.",
+    "DESCRIPTIONS": [
+      "Mengganti #pAir #pMunri. di setiap awal pertarungan, tambah #b3 #yMukjizat ke tangan."
+    ]
+  },
+  "SacredBark": {
+    "NAME": "Kulit Pohon Suci",
+    "FLAVOR": "Kulit Pohon yang dirumorkan berasal dari Pohon Dunia.",
+    "DESCRIPTIONS": [
+      "Semua efek Ramuan dilipat-gandakan dua kali."
+    ]
+  },
+  "InkBottle": {
+    "NAME": "Botol Tinta",
+    "FLAVOR": "Ketika habis, Akan mengisi dirinya sendiri dengan warna berbeda.",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu memainkan #b10 kartu, ambil #b1 kartu."
+    ]
+  },
+  "Yin": {
+    "NAME": "DEPRECATED Yin",
+    "FLAVOR": "Sinar tidak dapat muncul tanpa kegelapan, atau mungkinkah?",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu memainkan #yJurus, dapat #b1 #yDaya sementara."
+    ]
+  },
+  "Yang": {
+    "NAME": "Yang",
+    "FLAVOR": "\"Dan matahari pun akan padam selamanya, bagaikan gorden menutupinya.\" - Zoroth",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu memainkan #ySerangan, dapat #b1 #yKetangkasan sementara."
+    ]
+  },
+  "Akabeko": {
+    "NAME": "Akabeko",
+    "FLAVOR": "\"Muuu~\"",
+    "DESCRIPTIONS": [
+      "Serangan pertamamu di setiap pertarungan memberi #b",
+      " damage lebih."
+    ]
+  },
+  "VioletLotus": {
+    "NAME": "Lotus  Violet",
+    "FLAVOR": "Kitab-kitab menggambarkan permukaan \"Danau Mana\" itu penuh dengan bunga ini.",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu berhenti Ancang-ancang #yTeduh, Terima [E] lebih."
+    ]
+  },
+  "TeardropLocket": {
+    "NAME": "Liontin Air Mata",
+    "FLAVOR": "Pemiliknya buta, intinya tak pernah dilihat.",
+    "DESCRIPTIONS": [
+      "Mulai setiap pertarungan dengan #yTeduh."
+    ]
+  },
+  "CeramicFish": {
+    "NAME": "Ikan Keramik",
+    "FLAVOR": "Di lukis dengan teliti, ikan-ikan ini dipuja akan membawa keberuntungan besar.",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu menambahkan kartu ke dek, dapatkan #b",
+      " #yEmas."
+    ]
+  },
+  "SlaversCollar": {
+    "NAME": "Kerah Sang Pembudak",
+    "FLAVOR": "Rantai berkarat yang menyedihkan.",
+    "DESCRIPTIONS": [
+      "Di Pertarungan Boss dan Elit, dapatkan [E] di setiap awal giliran."
+    ]
+  },
+  "StrikeDummy": {
+    "NAME": "Target Palsu",
+    "FLAVOR": "Bantai.",
+    "DESCRIPTIONS": [
+      "Kartu dengan kata \"Strike\" memberi #b",
+      " damage lebih."
+    ]
+  },
+  "CloakClasp": {
+    "NAME": "Gesper Jubah",
+    "FLAVOR": "Design yang simpel namun kokoh.",
+    "DESCRIPTIONS": [
+      "Di setiap akhir giliranmu, dapatkan #b",
+      " #yBlok untuk setiap kartu di tangan."
+    ]
+  },
+  "TungstenRod": {
+    "NAME": "Tongkat Tungsten",
+    "FLAVOR": "Amat Berat.",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu kehilangan HP, itu berkurang #b",
+      " lebih sedikit."
+    ]
+  },
+  "HornCleat": {
+    "NAME": "Alas Bertanduk",
+    "FLAVOR": "Nyaman untuk dipegang. Apa gunanya?",
+    "DESCRIPTIONS": [
+      "Di awal giliran kedua mu, dapatkan #b",
+      " #yBlok."
+    ]
+  },
+  "CaptainsWheel": {
+    "NAME": "Roda Kapten",
+    "FLAVOR": "Perhiasan kayu yang diukir dengan presisi dan kehalusan. Sebuah nama terukir di rodanya tapi bahasanya tak dimengerti.",
+    "DESCRIPTIONS": [
+      "Di awal giliran ketiga mu, dapatkan #b",
+      " #yBlok."
+    ]
+  },
+  "GoldenEye": {
+    "NAME": "Mata Emas",
+    "FLAVOR": "TODO",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu #yMenggali, #yGali #b",
+      " kartu lebih."
+    ]
+  } 
 }

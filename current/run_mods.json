@@ -31,6 +31,10 @@
     "NAME": "Kartu Biru",
     "DESCRIPTION": "Kartu Biru sekarang muncul di layar hadiah dan toko."
   },
+  "Purple Cards": {
+    "NAME": "Kartu Ungu",
+    "DESCRIPTION": "Kartu Ungu sekarang muncul di layar hadiah dan toko."
+  },
   "Colorless Cards": {
     "NAME": "Kartu Tanpa Warna",
     "DESCRIPTION": "Kartu Tanpa Warna muncul lebih sering."
