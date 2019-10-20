@@ -1367,7 +1367,7 @@
   },
   "Blasphemy": {
     "NAME": "Penghujatan",
-    "DESCRIPTION": "Masuk Kedewaan. NL Mati giliran berikutnya. NL Hangus."
+    "DESCRIPTION": "Tahan. Masuk Kedewaan. NL Mati giliran berikutnya. NL Hangus."
   },
   "Ragnarok": {
     "NAME": "Ragnarok",
@@ -1625,231 +1625,231 @@
     "DESCRIPTION": "Berikan !D! damage. NL Bila kamu punya G Vigor, NL gain [W] and NL draw 1 card."
   },
   "TalkToTheHand": {
-    "NAME": "Talk to the Hand",
-    "DESCRIPTION": "Deal !D! damage. NL Whenever you attack this enemy, gain !M! Block. NL Exhaust."
+    "NAME": "Bicara kepada tangan",
+    "DESCRIPTION": "Berikan !D! damage. NL Setiap kali kamu menyerang musuh ini, dapatkan !M! Blok. NL Hangus."
   },
   "BattleHymn": {
-    "NAME": "Battle Hymn",
-    "DESCRIPTION": "At the start of each turn add a *Jalar into your hand.",
-	"UPGRADE_DESCRIPTION": "Innate. NL At the start of each turn add a *Jalar into your hand."
+    "NAME": "Mazmur Peperangan",
+    "DESCRIPTION": "Pada setiap awal giliran, tambahkan sebuah *Jalar ke tangan.",
+	"UPGRADE_DESCRIPTION": "Permulaan. NL Pada setiap awal giliran, tambahkan sebuah *Jalar ke tangan."
   },
   "Prostrate": {
-    "NAME": "Prostrate",
-    "DESCRIPTION": "Gain !M! Mantra. NL Gain !B! Block.",
+    "NAME": "Bersujud",
+    "DESCRIPTION": "Dapatkan !M! Mantra. NL Dapatkan !B! Blok.",
     "UPGRADE_DESCRIPTION": "DEPRECATED"
   },
   "Punishment": {
-    "NAME": "DEPRECATED Punishment",
-    "DESCRIPTION": "Enter Punishment Stance."
+    "NAME": "DEPRECATED Hukuman",
+    "DESCRIPTION": "Masuk Ancang-ancang hukuman."
   },
   "Eruption": {
-    "NAME": "Eruption",
-    "DESCRIPTION": "Deal !D! damage. NL Enter Wrath."
+    "NAME": "Meledak",
+    "DESCRIPTION": "Berikan !D! damage. NL Masuk Ancang-ancang Amarah."
   },
   "ClearTheMind": {
-    "NAME": "Tranquility",
-    "DESCRIPTION": "Retain. NL Enter Calm. NL Exhaust."
+    "NAME": "Ketentraman",
+    "DESCRIPTION": "Tahan. NL Masuk Teduh. NL Hangus."
   },
   "WaveOfTheHand": {
-    "NAME": "Wave of the Hand",
-    "DESCRIPTION": "Whenever you gain Block this turn, apply !M! Weak to ALL enemies."
+    "NAME": "Lambaian Tangan",
+    "DESCRIPTION": "Setiap kali kamu mendapat Blok di giliran ini, Terapkan !M! Lemah ke SEMUA musuh."
   },
   "SpiritShield": {
-    "NAME": "Spirit Shield",
-    "DESCRIPTION": "Gain !M! Block for each card in your hand.",
+    "NAME": "Tameng Arwah",
+    "DESCRIPTION": "Dapatkan !M! Blok untuk setiap kartu di tangan.",
     "EXTENDED_DESCRIPTION": [
-      " NL (Gain !B! Block.)"
+      " NL (Dapatkan !B! Blok.)"
     ]
   },
   "Vigilance": {
-    "NAME": "Vigilance",
-    "DESCRIPTION": "Gain !B! Block. NL Enter Calm.",
+    "NAME": "Waspada",
+    "DESCRIPTION": "Dapatkan !B! Blok. NL Masuk Teduh.",
     "UPGRADE_DESCRIPTION": "Deprecated."
   },
   "Serenity": {
-    "NAME": "DEPRECATED Serenity",
-    "DESCRIPTION": "While you are in Calm, HP loss is reduced by !M!."
+    "NAME": "DEPRECATED Ketenangan",
+    "DESCRIPTION": "Ketika kamu di dalam Teduh, setiap kekurangan HP dikurang !M!."
   },
   "Crescendo": {
     "NAME": "Crescendo",
-    "DESCRIPTION": "Retain. NL Enter Wrath. NL Exhaust."
+    "DESCRIPTION": "Tahan. NL Masuk Amarah. NL Hangus."
   },
   "Transcendence": {
-    "NAME": "Transcendence",
-    "DESCRIPTION": "Upgrade all cards that Retain in your hand."
+    "NAME": "Transendansi",
+    "DESCRIPTION": "Tingkatkan semua kartu yang di Tahan di tangan."
   },
   "FollowUp": {
     "NAME": "Follow-Up",
-    "DESCRIPTION": "Deal !D! damage. NL If the last card played this combat was an Attack, gain [W]."
+    "DESCRIPTION": "Berikan !D! damage. NL Bila kartu terakhir yang dimainkan adalah serangan, dapatkan [W]."
   },
   "Perseverance": {
-    "NAME": "Perseverance",
-    "DESCRIPTION": "Retain. NL Gain !B! Block. NL When Retained, increase its Block by !M! this combat."
+    "NAME": "Kegigihan",
+    "DESCRIPTION": "Tahan. NL Dapatkan !B! Blok. NL Ketika di Tahan, naikkan Blok dengan !M! di perang ini."
   },
   "CrushJoints": {
-    "NAME": "Crush Joints",
-    "DESCRIPTION": "Deal !D! damage. NL If the last card played this combat was a Skill, apply !M! Vulnerable."
+    "NAME": "Remukkan Sendi",
+    "DESCRIPTION": "Berikan !D! damage. NL Bila kartu terakhir yang dimainkan adalah Jurus, Terapkan !M! Rentan."
   },
   "SashWhip": {
-    "NAME": "Sash Whip",
-    "DESCRIPTION": "Deal !D! damage. NL If the last card played this combat was an Attack, apply !M! Weak."
+    "NAME": "Cambuk Selempang",
+    "DESCRIPTION": "Berikan !D! damage. NL Bial kartu terakhir yang dimainkan adalah Serangan, terapkan !M! Lemh."
   },
   "Sanctity": {
-    "NAME": "Sanctity",
-    "DESCRIPTION": "Gain !B! Block. NL If the last card played this combat was a Skill, draw !M! cards."
+    "NAME": "Kekeramatan",
+    "DESCRIPTION": "Dapatkan !B! Blok. NL Bial kartu terakhir yang dimainkan adalah Jurus, ambil !M! kartu."
   },
   "Omniscience": {
-    "NAME": "Omniscience",
-    "DESCRIPTION": "Choose a card in your draw pile. NL Play the chosen card twice and exhaust it. NL Exhaust.",
+    "NAME": "Kemahatahuan",
+    "DESCRIPTION": "Pilih sebuah kartu dari dek ambil. NL Mainkan kartu itu dua kali dan Hanguskan. NL Hangus.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Scrawl": {
-    "NAME": "Scrawl",
-    "DESCRIPTION": "Draw cards until your hand is full. NL Exhaust.",
+    "NAME": "Tulis Acak", 
+    "DESCRIPTION": "Ambil kartu sampai tanganmu penuh. NL Hangus.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Swivel": {
-    "NAME": "Swivel",
+    "NAME": "Swivel ",
     "DESCRIPTION": "Gain !B! Block. NL The next Attack you play costs 0."
   },
   "Protect": {
-    "NAME": "Protect",
-    "DESCRIPTION": "Retain. NL Gain !B! Block."
+    "NAME": "Lindungi",
+    "DESCRIPTION": "Tahan. NL Dapatkan !B! Blok."
   },
   "FlyingSleeves": {
-    "NAME": "Flying Sleeves",
-    "DESCRIPTION": "Retain. NL Deal !D! damage twice."
+    "NAME": "Lengan Beterbangan",
+    "DESCRIPTION": "Tahan. NL Berikan !D! damage dua kali."
   },
   "MasterReality": {
-    "NAME": "Master Reality",
-    "DESCRIPTION": "Whenever a card is created during combat, Upgrade it."
+    "NAME": "Menguasai Realitas",
+    "DESCRIPTION": "Setiap kali kartu di ciptakan di pertarungan, Tingkatkan."
   },
   "BowlingBash": {
-    "NAME": "Bowling Bash",
-    "DESCRIPTION": "Deal !D! damage for each enemy in combat."
+    "NAME": "Hantaman Bowling",
+    "DESCRIPTION": "Berikan !D! damage untuk setiap musuh di pertarungan."
   },
   "Unraveling": {
-    "NAME": "Unraveling",
-    "DESCRIPTION": "Play all of your cards from left to right. Targets are chosen randomly. NL Exhaust."
+    "NAME": "Uraikan",
+    "DESCRIPTION": "Mainkan semua kartu di tangan dari kiri ke kanan. Target dipilih secara acak. NL Hangus."
   },
   "BigBrain": {
-    "NAME": "DEPRECATED Big Brain",
-    "DESCRIPTION": "Retain. NL Draw 1 card. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Retain. NL Draw 1 card."
+    "NAME": "DEPRECATED Otak Cerdik",
+    "DESCRIPTION": "Tahan. NL Ambil 1 kartu. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Tahan. NL Ambil 1 kartu."
   },
   "SandsOfTime": {
-    "NAME": "Sands of Time",
-    "DESCRIPTION": "Retain. NL Deal !D! damage. NL When Retained, lower its cost by 1 this combat."
+    "NAME": "Pasir Waktu",
+    "DESCRIPTION": "Tahan. NL Berikan !D! damage. NL Ketika di Tahan, Kurangi harganya dengan 1."
   },
   "Brilliance": {
-    "NAME": "Brilliance",
-    "DESCRIPTION": "Ethereal. NL Heal !M! HP X times. NL Exhaust.",
+    "NAME": "Kecemerlangan",
+    "DESCRIPTION": "Ethereal. NL Pulihkan !M! HP X kali. NL Hangus.",
     "EXTENDED_DESCRIPTION": [
       ""
     ]
   },
   "Retribution": {
-    "NAME": "DEPRECATED Retribution",
-    "DESCRIPTION": "Whenever you lose HP, gain !M! Vigor."
+    "NAME": "DEPRECATED Retribusi",
+    "DESCRIPTION": "Setiap kali kamu kehilangan HP HP, dapatkan !M! Gairah."
   },
   "JustLucky": {
-    "NAME": "Just Lucky",
-    "DESCRIPTION": "Scry !M!. NL Gain !B! Block. NL Deal !D! damage."
+    "NAME": "Hoki",
+    "DESCRIPTION": "Gali !M!. NL Dapatkan !B! Blok. NL Berikan !D! damage."
   },
   "Weave": {
-    "NAME": "Weave",
-    "DESCRIPTION": "Deal !D! damage. NL Whenever you Scry, return this from the discard pile to your Hand."
+    "NAME": "Sulam",
+    "DESCRIPTION": "Berikan !D! damage. NL Setiap kali kamu Meng Gali, Taruh kartu ini dari dek buang ke tangan."
   },
   "Adaptation": {
     "NAME": "Rushdown",
-    "DESCRIPTION": "Whenever you enter Wrath, draw !M! cards.",
+    "DESCRIPTION": "Setiap kali kamu masuk Amarah, ambil !M! kartu.",
     "UPGRADE_DESCRIPTION": "DEPRECATED"
   },
   "Causality": {
-    "NAME": "Causality",
-    "DESCRIPTION": "Draw cards until your hand is full. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Retain. NL Draw cards until your hand is full. NL Exhaust."
+    "NAME": "Sebab dan Akibat",
+    "DESCRIPTION": "Ambil kartu sampai tangan kamu penuh. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Tahan. NL Ambil kartu sampai tangan kamu penuh. NL Hangus."
   },
   "Wish": {
-    "NAME": "Wish",
-    "DESCRIPTION": "Choose one: NL Gain !B! Plated Armor each turn, !D! Strength, or !M! Gold. NL Exhaust.",
+    "NAME": "Impian",
+    "DESCRIPTION": "Pilih satu: NL Dapatkan !B! Baja setiap giliran, !D! Daya, atau !M! Emas. NL Hangus.",
     "UPGRADE_DESCRIPTION": ""
   },
   "CurseOfTheBell": {
-    "NAME": "Curse of the Bell",
-    "DESCRIPTION": "Unplayable. NL Cannot be removed from your deck."
+    "NAME": "Kutukan Lonceng",
+    "DESCRIPTION": "Stasis. NL Tidak dapat di hapus dari dek."
   },
   "InnerPeace": {
-    "NAME": "Inner Peace",
-    "DESCRIPTION": "If you are in Calm, draw !M! cards, otherwise enter Calm."
+    "NAME": "Ketentraman",
+    "DESCRIPTION": "Bila kamu dalam Teduh, ambil !M! kartu, bila tidak, masuk Teduh."
   },
   "Tantrum": {
-    "NAME": "Tantrum",
-    "DESCRIPTION": "Deal !D! damage NL !M! times. NL Enter Wrath. NL Shuffle this card into your draw pile."
+    "NAME": "Amukan",
+    "DESCRIPTION": "Berikan !D! damage NL !M! kali. NL Masuk Amarah. NL Acak kartu ini ke dek ambil."
   },
   "Alpha": {
     "NAME": "Alpha",
-    "DESCRIPTION": "Shuffle a *Beta into your draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Innate. NL Shuffle a *Beta into your draw pile. NL Exhaust."
+    "DESCRIPTION": "Acak sebuah *Beta ke dek ambil. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Permulaan. NL Acak sebuah *Beta ke dek ambil. NL Hangus."
   },
   "Beta": {
     "NAME": "Beta",
-    "DESCRIPTION": "Shuffle an *Omega into your draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Shuffle an *Omega+ into your draw pile. NL Exhaust."
+    "DESCRIPTION": "Acak sebuah *Omega ke dek ambil. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "."
   },
   "Omega": {
     "NAME": "Omega",
-    "DESCRIPTION": "At the end of your turn, deal !M! damage to ALL enemies."
+    "DESCRIPTION": "Di akhir giliranmu, Berikan !M! damage ke SEMUA musuh."
   },
   "Vengeance": {
-    "NAME": "Simmering Fury",
-    "DESCRIPTION": "Scry !M!. NL Enter Wrath at the start of your next turn."
+    "NAME": "Amarah Mendidih",
+    "DESCRIPTION": "Gali !M!. NL Masuk Amarah di giliran berikut mu."
   },
   "PathToVictory": {
-    "NAME": "Path to Victory",
-    "DESCRIPTION": "Apply !M! *Mark. NL ALL enemies lose HP equal to their *Mark.",
+    "NAME": "Jalan menuju Kemenangan",
+    "DESCRIPTION": "Terapkan !M! *Tertanda. NL Semua musuh kehilangan HP sesuai jumlah *Tanda.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Wallop": {
-    "NAME": "Wallop",
-    "DESCRIPTION": "Deal !D! damage. NL Gain Block equal to unblocked damage dealt."
+    "NAME": "Hantam",
+    "DESCRIPTION": "Berikan !D! damage. NL Dapatkan Blok sesuai dengan damage yang tidak di blok."
   },
   "Halt": {
-    "NAME": "Halt",
-    "DESCRIPTION": "Gain !B! Block. NL If you are in Wrath, gain !M! additional Block."
+    "NAME": "Henti",
+    "DESCRIPTION": "Dapatkan !B! Blok. NL Bila kamu dalam Amarah, dapatkan !M! Blok lebih."
   },
   "WheelKick": {
-    "NAME": "Wheel Kick",
-    "DESCRIPTION": "Deal !D! damage. NL Draw !M! cards.",
+    "NAME": "Tendangan Berputar",
+    "DESCRIPTION": "Berikan !D! damage. NL Ambil !M! kartu.",
     "UPGRADE_DESCRIPTION": ""
   },
   "Indignation": {
-    "NAME": "Indignation",
-    "DESCRIPTION": "If you are in Wrath, apply !M! Vulnerable to ALL enemies, otherwise enter Wrath."
+    "NAME": "Kejengkelan",
+    "DESCRIPTION": "Bila kamu dalam Amarah, terapkan !M! Rentan ke SEMUA musuh, jika tidak, masuk Amarah."
   },
   "BecomeAlmighty": {
-    "NAME": "Become Almighty",
-    "DESCRIPTION": "Gain !M! Strength."
+    "NAME": "Menjadi Mahakuasa",
+    "DESCRIPTION": "Dapatkan !M! Daya."
   },
   "LiveForever": {
-    "NAME": "Live Forever",
-    "DESCRIPTION": "At the end of your turn, gain !M! Plated Armor."
+    "NAME": "Hidup Kekal",
+    "DESCRIPTION": "Di akhir giliranmu, dapatkan !M! Plated Armor."
   },
   "FameAndFortune": {
     "NAME": "Fame and Fortune",
     "DESCRIPTION": "Gain !M! Gold."
   },
   "ConjureBlade": {
-    "NAME": "Conjure Blade",
-    "DESCRIPTION": "Shuffle an *Expunger into your draw pile. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Shuffle an *Expunger with X+1 into your draw pile. NL Exhaust."
+    "NAME": "Menyulap Pedang",
+    "DESCRIPTION": "Acak sebuah *Musnahkan ke dalam dek ambil. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Acak sebuah *Musnahkan dengan X+1 ke dalam dek ambil. NL Hangus."
   },
   "Expunger": {
-    "NAME": "Expunger",
-    "DESCRIPTION": "Deal !D! damage X times.",
-    "UPGRADE_DESCRIPTION": "Deal !D! damage X+1 times.",
+    "NAME": "Musnahkan",
+    "DESCRIPTION": "Berikan !D! damage X kali.",
+    "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
-      "Deal !D! damage !M! times."
+      "Berikan !D! damage !M! kalo."
     ]
   },
   "WaveOfTheHand2": {
@@ -1857,8 +1857,8 @@
     "DESCRIPTION": "DEPRECATED"
   },
   "Discipline": {
-    "NAME": "DEPRECATED Discipline",
-    "DESCRIPTION": "If you end your turn with unused [W] , draw that many additional cards next turn."
+    "NAME": "DEPRECATED Disiplin",
+    "DESCRIPTION": "Bila kamu mengakhiri giliranmu dengan [W] lebih, Ambil kartu lebih sebanyak kelebihannya."
   },
   "Flick": {
     "NAME": "DEPRECATED Sentil",
