@@ -496,7 +496,7 @@
   },
   "Feed": {
     "NAME": "Makan",
-    "DESCRIPTION": "Beri !D! damage. NL Jika ini membunuh musuh non-minion, dapatkan !M! HP Maks. Hangus."
+    "DESCRIPTION": "Beri !D! damage. NL Jika ini Fatal, dapatkan !M! HP Maks. Hangus."
   },
   "Feel No Pain": {
     "NAME": "Tidak Merasa Sakit",
@@ -941,8 +941,8 @@
   },
   "Reprogram": {
     "NAME": "Program Ulang",
-    "DESCRIPTION": "Lihat !M! kartu atas dari dek ambil. Kamu boleh buang kartu tersebut.",
-    "UPGRADE_DESCRIPTION": "Lihat !M! kartu atas dari dek ambil. Kamu boleh buang kartu tersebut."
+    "DESCRIPTION": "Gali !M!",
+    "UPGRADE_DESCRIPTION": "Hilang !M! Fokus. NL Dapatkan 1 Daya. NL Dapatkan 1 Ketangkasan."
   },
   "Riddle With Holes": {
     "NAME": "Penuh Lubang",
@@ -1261,7 +1261,7 @@
   },
   "RitualDagger": {
     "NAME": "Pisau Ritual",
-    "DESCRIPTION": "Beri !D! damage. Jika ini membunuh sebuah musuh, naikkan secara permanen damage kartu ini !M!. NL Hangus."
+    "DESCRIPTION": "Beri !D! damage. Jika ini Fatal, naikkan secara permanen damage kartu ini !M!. NL Hangus."
   },
   "Pride": {
     "NAME": "Harga Diri",
@@ -1273,7 +1273,7 @@
   },
   "HandOfGreed": {
     "NAME": "Tangan Rakus",
-    "DESCRIPTION": "Beri !D! damage. NL Jika ini membunuh sebuah musuh non-minion, dapatkan !M! Emas."
+    "DESCRIPTION": "Beri !D! damage. NL Jika ini Fatal, dapatkan !M! Emas."
   },
   "Violence": {
     "NAME": "Kekejaman",
@@ -1443,7 +1443,7 @@
   },
   "LessonLearned": {
     "NAME": "Pelajaran Diterima",
-    "DESCRIPTION": "Berikan !D! damage. NL Bila ini berhasil membunuh musuh, Tingkatkan kartu acak di dek. Hangus."
+    "DESCRIPTION": "Berikan !D! damage. NL Bila ini Fatal, Tingkatkan kartu acak di dek. Hangus."
   },
   "CutThroughFate": {
     "NAME": "Memotong Takdir",
@@ -1486,7 +1486,7 @@
   "Wireheading": {
     "NAME": "Tinjauan Masa Depan",
     "DESCRIPTION": "Di awal setiap giliran, Gali !M!.",
-    "UPGRADE_DESCRIPTION": "Permulaan. NL Di awal setiap giliran, Gali !M!."
+    "UPGRADE_DESCRIPTION": ""
   },
   "ReachHeaven": {
     "NAME": "Menjangkau Surga",
@@ -1743,7 +1743,7 @@
   },
   "Brilliance": {
     "NAME": "Kecemerlangan",
-    "DESCRIPTION": "Ethereal. NL Pulihkan !M! HP X kali. NL Hangus.",
+    "DESCRIPTION": "Berikan !D! damage. Ditambah dengan semua Mantra yang didapat di pertarungan ini",
     "EXTENDED_DESCRIPTION": [
       ""
     ]
@@ -1772,7 +1772,7 @@
   },
   "Wish": {
     "NAME": "Impian",
-    "DESCRIPTION": "Pilih satu: NL Dapatkan !B! Baja setiap giliran, !D! Daya, atau !M! Emas. NL Hangus.",
+    "DESCRIPTION": "Pilih satu: NL Dapatkan !B! Baja, !D! Daya, atau !M! Emas. NL Hangus.",
     "UPGRADE_DESCRIPTION": ""
   },
   "CurseOfTheBell": {
@@ -1806,7 +1806,7 @@
     "DESCRIPTION": "Gali !M!. NL Masuk Amarah di giliran berikut mu."
   },
   "PathToVictory": {
-    "NAME": "Jalan menuju Kemenangan",
+    "NAME": "Titik Tekanan",
     "DESCRIPTION": "Terapkan !M! *Tertanda. NL Semua musuh kehilangan HP sesuai jumlah *Tanda.",
     "UPGRADE_DESCRIPTION": ""
   },
@@ -1833,7 +1833,7 @@
   },
   "LiveForever": {
     "NAME": "Hidup Kekal",
-    "DESCRIPTION": "Di akhir giliranmu, dapatkan !M! Plated Armor."
+    "DESCRIPTION": "Dapatkan !M! *Baja."
   },
   "FameAndFortune": {
     "NAME": "Fame and Fortune",

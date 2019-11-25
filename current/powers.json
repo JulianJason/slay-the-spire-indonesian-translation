@@ -351,8 +351,7 @@
   "Fire Breathing": {
     "NAME": "Napas Api",
     "DESCRIPTIONS": [
-      "Pada akhir giliran, untuk setiap #ySerangan yang dimainkan giliran ini beri #b",
-      " damage ke SEMUA musuh."
+      "Setiap kali kamu mengambil kartu #yStatus atau #yKutuk. Beri #b"
     ]
   },
   "Flame Barrier": {
@@ -1285,9 +1284,9 @@
     ]
   },
   "PathToVictoryPower": {
-    "NAME": "Tandai",
+    "NAME": "Tertanda",
     "DESCRIPTIONS": [
-      "Setiap kali kamu memainkan #yJalan #yMenuju #yKemenangan, hilang #b",
+      "Setiap kali #yTitik #yTekanan dimainkan, hilang #b",
       " HP."
     ]
   },

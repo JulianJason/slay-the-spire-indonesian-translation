@@ -303,5 +303,18 @@
       "Dapatkan #b",
       " #yRitual."
     ]
+  },
+  "ColorlessPotion": {
+    "NAME": "Ramuan Task Berwarna",
+    "DESCRIPTIONS": [
+      "Pilih #b1 dari #b3 kartu #yTak #yBerwarna secara acak dan tambahkan ke tangan, Harganya #b0 giliran ini.",
+      "Pilih #b1 dari #b3 kartu #yTak #yBerwarna secara acak dan tambahkan 2 copy ke tangan, Harganya #b0 giliran ini."
+    ]
+  },
+  "BlessingOfTheForge": {
+    "NAME": "Berkah Pandai Besi",
+    "DESCRIPTIONS": [
+      "Naikkan semua kartu di tangan."
+    ]
   }
 }

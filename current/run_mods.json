@@ -85,7 +85,7 @@
   },
   "My True Form": {
     "NAME": "Wujud Sebenarnya",
-    "DESCRIPTION": "Mulai dengan satu Wujud Iblis, Wujud Arwah, dan Wujud Gema."
+    "DESCRIPTION": "Mulai dengan satu Wujud Iblis, Wujud Arwah, Wujud Gema dan Wujud Deva."
   },
   "Night Terrors": {
     "NAME": "Mimpi Buruk",
@@ -137,7 +137,7 @@
   },
   "Chimera": {
     "NAME": "Chimera",
-    "DESCRIPTION": "Dek awal adalah gabungan dari 3 karakter."
+    "DESCRIPTION": "Dek awal adalah gabungan dari semua karakter."
   },
   "NeowTime": {
     "NAME": "Waktu Neow",

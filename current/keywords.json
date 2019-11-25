@@ -310,6 +310,12 @@
         "ritual"
       ],
       "DESCRIPTION": "Dapatkan #yDaya di akhir giliranmu turn."
+    },
+    "FATAL": {
+      "NAMES": [
+        "fatal"
+      ],
+      "DESCRIPTION": "Terpenuhi setiap kali kartu ini membunuh musuh non-minion."
     }
   }
 }

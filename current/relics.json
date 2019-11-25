@@ -278,7 +278,7 @@
     ]
   },
   "Dodecahedron": {
-    "NAME": "Dodekahedron Aksara",
+    "NAME": "DEPRECATED Dodekahedron Aksara",
     "FLAVOR": "Aksaranya tidak bisa ditafsirkan.",
     "DESCRIPTIONS": [
       "Jika HP-mu penuh, dapatkan ",
@@ -996,9 +996,9 @@
     "NAME": "Peti Kecil",
     "FLAVOR": "\"Prototipe yang bagus.\" - Sang Arsitek",
     "DESCRIPTIONS": [
-      "Dapatkan #b",
-      " #yEmas. Kamu #b10% lebih sering menemukan harta karun di ruang ? .",
-      "Kamu #b10% lebih sering menemukan harta karun di ruang ? ."
+      "Setiap #b",
+      " ruangan #y? adalah ruangan harta karum",
+      ""
     ]
   },
   "Tiny House": {
@@ -1375,7 +1375,7 @@
   },
   "HolyWater": {
     "NAME": "Air Suci",
-    "FLAVOR": "TODO.",
+    "FLAVOR": "Dikumpulkan dari sebuah waktu sebelum Spire.",
     "DESCRIPTIONS": [
       "Mengganti #pAir #pMunri. di setiap awal pertarungan, tambah #b3 #yMukjizat ke tangan."
     ]
@@ -1402,7 +1402,7 @@
     ]
   },
   "Yang": {
-    "NAME": "Yang",
+    "NAME": "Dualitas",
     "FLAVOR": "\"Dan matahari pun akan padam selamanya, bagaikan gorden menutupinya.\" - Zoroth",
     "DESCRIPTIONS": [
       "Setiap kali kamu memainkan #ySerangan, dapat #b1 #yKetangkasan sementara."
@@ -1487,10 +1487,18 @@
   },
   "GoldenEye": {
     "NAME": "Mata Emas",
-    "FLAVOR": "TODO",
+    "FLAVOR": "Lihat kedalam pikiran mahkluk yang dekat",
     "DESCRIPTIONS": [
       "Setiap kali kamu #yMenggali, #yGali #b",
       " kartu lebih."
     ]
-  } 
+  },
+  "Damaru": {
+    "NAME": "Damaru",
+    "FLAVOR": "Suara gendang kecil menjaga pemikiranmu sigap, membuka sebuah jalan maju.",
+    "DESCRIPTIONS": [
+      "Di setiap awal giliranmu, dapatkan#b",
+      " #yMantra."
+    ]
+  }
 }
