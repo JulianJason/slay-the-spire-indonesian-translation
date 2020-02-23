@@ -1340,9 +1340,19 @@
     "TEXT": [
       "Harian - Lantai %s",
       "Spesial - Lantai %s",
-      " - Lantai %s",
+      " F%s",
       "Menu Utama",
-      " (A%s)"
+      "A%s "
+    ]
+  },
+  "ClarityAction": {
+    "TEXT": [
+      "Pilih 1 Kartu untuk disimpan. Sisanya diHanguskan"
+    ]
+  },
+  "WishAction": {
+    "TEXT": [
+      "Pilih 1 Kartu untuk dimainkan."
     ]
   }
 }

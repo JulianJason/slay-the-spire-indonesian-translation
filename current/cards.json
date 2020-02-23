@@ -1803,7 +1803,7 @@
   },
   "Vengeance": {
     "NAME": "Amarah Mendidih",
-    "DESCRIPTION": "Gali !M!. NL Masuk Amarah di giliran berikut mu."
+    "DESCRIPTION": "Di awal giliranmu, masuk Amarah dan ambil !M! Kartu"
   },
   "PathToVictory": {
     "NAME": "Titik Tekanan",
@@ -1849,7 +1849,7 @@
     "DESCRIPTION": "Berikan !D! damage X kali.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
-      "Berikan !D! damage !M! kalo."
+      "Berikan !D! damage !M! kali."
     ]
   },
   "WaveOfTheHand2": {
