@@ -1,6 +1,7 @@
 {
   "Discard Tip": {
     "TEXT": [
+      "Kalau dek ambilmu kosong, acak ulang dek buang dan masukkan ke dek ambil. NL NL Lihat isi dek buangmu.",
       "Kalau dek ambilmu kosong, acak ulang dek buang dan masukkan ke dek ambil. NL NL Lihat isi dek buangmu."
     ],
     "LABEL": [
@@ -11,7 +12,9 @@
     "TEXT": [
       "Pada awal giliran, ambil NL #b",
       " kartu dari sini. NL NL Lihat isi dek ambil (teracak).",
-      " kartu dari sini. NL NL Lihat isi dek ambil."
+      " kartu dari sini. NL NL Lihat isi dek ambil.",
+      " kartu diambil dari sini. NL NL Lihat kartu-kartu di dalam dek ambilmu (teracak).",
+      " kartu diambil dari sini. NL NL Lihat kartu-kartu di dalam dek ambilmu."
     ],
     "LABEL": [
       "Dek Ambil"
@@ -44,6 +47,7 @@
   },
   "Exhaust Tip": {
     "TEXT": [
+      "Lihat kartu yang dihanguskan pada pertarungan ini.",
       "Lihat kartu yang dihanguskan pada pertarungan ini."
     ],
     "LABEL": [
@@ -163,8 +167,7 @@
       "Ketika kamu mengecek item, cursormu akan berbentuk kaca pembesar.",
       "Gunakan scroll-wheel atau geser layar untuk menggulirkan tampilan peta, dek, dll."
     ],
-    "LABEL": [
-    ]
+    "LABEL": []
   },
   "Relic Tip": {
     "TEXT": [
@@ -181,6 +184,7 @@
   },
   "Rewards Tip": {
     "TEXT": [
+      "Jangan lupa dengan hadiahmu!",
       "Jangan lupa dengan hadiahmu!"
     ],
     "LABEL": [

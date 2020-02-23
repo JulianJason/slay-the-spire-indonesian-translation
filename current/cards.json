@@ -1335,7 +1335,7 @@
   "FlowState": {
     "NAME": "DEPRECATED Posisi mengalir",
     "DESCRIPTION": "Amarah: Masuk Teduh. NL Teduh: Masuk Amarah. NL Hangus.",
-  	"UPGRADE_DESCRIPTION": "Amarah: Masuk Teduh. NL Teduh: Masuk Amarah."
+    "UPGRADE_DESCRIPTION": "Amarah: Masuk Teduh. NL Teduh: Masuk Amarah."
   },
   "FlurryOfBlows": {
     "NAME": "Pukulan Ganda",
@@ -1367,7 +1367,8 @@
   },
   "Blasphemy": {
     "NAME": "Penghujatan",
-    "DESCRIPTION": "Tahan. Masuk Kedewaan. NL Mati giliran berikutnya. NL Hangus."
+    "DESCRIPTION": "Tahan. Masuk Kedewaan. NL Mati giliran berikutnya. NL Hangus.",
+    "UPGRADE_DESCRIPTION": "Tahan. NL Masuk kedewaan. NL Mati giliran berikutnya. NL Hangus."
   },
   "Ragnarok": {
     "NAME": "Ragnarok",
@@ -1397,7 +1398,7 @@
   "LetFateDecide": {
     "NAME": "DEPRECATED Biarlah Takdir Tentukan",
     "DESCRIPTION": "Mainkan X kartu teratas dek ambil. Bila X lebih dari 3, Tahan X kartu."
-  }, 
+  },
   "RetreatingHand": {
     "NAME": "DEPRECATED Tangan Mundur",
     "DESCRIPTION": "Ethereal. NL Dapatkan !B! Blok. Bila kartu sebelumnya adalah sebuah Serangan, balikkan kartu ini ke tangan.",
@@ -1459,7 +1460,7 @@
   },
   "SignatureMove": {
     "NAME": "Jurus Pamungkas",
-    "DESCRIPTION": "Hanya bisa dimainkan bila ini serangan satu-satunya di tangan. NL Berikan !D! damage." 
+    "DESCRIPTION": "Hanya bisa dimainkan bila ini serangan satu-satunya di tangan. NL Berikan !D! damage."
   },
   "Prediction": {
     "NAME": "DEPRECATED Prediksi",
@@ -1491,7 +1492,7 @@
   "ReachHeaven": {
     "NAME": "Menjangkau Surga",
     "DESCRIPTION": "Berikan !D! damage. NL Acak sebuah NL *Melalui *Kekejian ke dek ambil.",
-	  "UPGRADE_DESCRIPTION": ""
+    "UPGRADE_DESCRIPTION": ""
   },
   "ThroughViolence": {
     "NAME": "Melalui Kekejian",
@@ -1529,7 +1530,7 @@
     "DESCRIPTION": "Dapatkan !D! damage. NL Tambahkan sebuah *Jalar ke tangan.",
     "UPGRADE_DESCRIPTION": ""
   },
-  "Jalar": {
+  "Smite": {
     "NAME": "Jalar",
     "DESCRIPTION": "Tahan. NL Berikan !D! damage. NL Hangus."
   },
@@ -1567,7 +1568,7 @@
   "Establishment": {
     "NAME": "Penetapan",
     "DESCRIPTION": "Setiap kali kartu di Tahan, kurangi harganya dengan !M! di pertarungan ini.",
-	  "UPGRADE_DESCRIPTION": "Pemulaan. NL Setiap kali kartu di Tahan, kurangi harganya dengan !M! di pertarungan ini."
+    "UPGRADE_DESCRIPTION": "Pemulaan. NL Setiap kali kartu di Tahan, kurangi harganya dengan !M! di pertarungan ini."
   },
   "WardAura": {
     "NAME": "DEPRECATED Aura Tangkalan",
@@ -1576,7 +1577,7 @@
   "Metaphysics": {
     "NAME": "DEPRECATED",
     "DESCRIPTION": "DEPRECATED",
-	"UPGRADE_DESCRIPTION": "DEPRECATED"
+    "UPGRADE_DESCRIPTION": "DEPRECATED"
   },
   "Evaluate": {
     "NAME": "Evaluasi",
@@ -1631,7 +1632,7 @@
   "BattleHymn": {
     "NAME": "Mazmur Peperangan",
     "DESCRIPTION": "Pada setiap awal giliran, tambahkan sebuah *Jalar ke tangan.",
-	"UPGRADE_DESCRIPTION": "Permulaan. NL Pada setiap awal giliran, tambahkan sebuah *Jalar ke tangan."
+    "UPGRADE_DESCRIPTION": "Permulaan. NL Pada setiap awal giliran, tambahkan sebuah *Jalar ke tangan."
   },
   "Prostrate": {
     "NAME": "Bersujud",
@@ -1704,7 +1705,7 @@
     "UPGRADE_DESCRIPTION": ""
   },
   "Scrawl": {
-    "NAME": "Tulis Acak", 
+    "NAME": "Tulis Acak",
     "DESCRIPTION": "Ambil kartu sampai tanganmu penuh. NL Hangus.",
     "UPGRADE_DESCRIPTION": ""
   },
@@ -1745,6 +1746,7 @@
     "NAME": "Kecemerlangan",
     "DESCRIPTION": "Berikan !D! damage. Ditambah dengan semua Mantra yang didapat di pertarungan ini",
     "EXTENDED_DESCRIPTION": [
+      "",
       ""
     ]
   },
@@ -1849,6 +1851,7 @@
     "DESCRIPTION": "Berikan !D! damage X kali.",
     "UPGRADE_DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
+      "Berikan !D! damage !M! kali.",
       "Berikan !D! damage !M! kali."
     ]
   },
@@ -1862,10 +1865,22 @@
   },
   "Flick": {
     "NAME": "DEPRECATED Sentil",
-    "DESCRIPTION": "Deal !D! damage. NL If an enemy is *Flicked 3 times, they take !M! damage."
+    "DESCRIPTION": "Berikan !D! damage. NL Bila musuh telah ter *Flick 3 kali, mereka menerima !M! damage."
   },
   "LikeWater": {
     "NAME": "bagaikan Air",
     "DESCRIPTION": "Di setiap akhir giliran, Bila kamu sedang Teduh, dapatkan !M! Blok."
+  },
+  "Defend_P": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Dapatkan !B! Blok."
+  },
+  "Strike_P": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Berikan !D! damage."
+  },
+  "Study": {
+    "NAME": "Study",
+    "DESCRIPTION": "Di akhir giliranmu, acak satu *Wawasan ke dalam dek ambil."
   }
 }

@@ -71,7 +71,8 @@
       "Tertahan",
       "Ironclad",
       "Silent",
-      "Defect"
+      "Defect",
+      "Watcher"
     ]
   },
   "AbstractPotion": {
@@ -218,7 +219,8 @@
       "Tipe",
       "A-Z",
       "Harga",
-      "Loncat ke:"
+      "Loncat ke:",
+      "Telat diperoleh"
     ]
   },
   "CardLibraryScreen": {
@@ -230,7 +232,8 @@
       "Tanpa Warna",
       "Kutukan",
       "Status",
-      "Lihat Peningkatan"
+      "Lihat Peningkatan",
+      "Ungu"
     ]
   },
   "CardRewardScreen": {
@@ -240,7 +243,8 @@
       "HP Maks +2",
       "PILIH SEKARANG: ",
       "s tersisa.",
-      "Lihat Peningkatan"
+      "Lihat Peningkatan",
+      "Pilih satu"
     ]
   },
   "CharacterOption": {
@@ -254,7 +258,8 @@
       " Kunci Tersisa",
       "Misteri",
       "???",
-      " Menuju Kunci Berikutnya"
+      " Menuju Kunci Berikutnya",
+      " Karakter ini terbuka dengan menyelesaikan satu run Standar ketika karakter ketiga telah terbuka."
     ]
   },
   "CharacterSelectScreen": {
@@ -272,7 +277,8 @@
       "Kode ",
       "Kode acak",
       "Kode awal digunakan untuk menentukan apa yang muncul secara acak di run.",
-      "Pasang Kode"
+      "Pasang Kode",
+      "Watcher"
     ]
   },
   "ChooseOneScreen": {
@@ -577,7 +583,8 @@
       "Pilih ",
       " Kartu untuk ",
       "Pilih berapapun jumlah Kartu untuk ",
-      "Pilih satu Kartu untuk "
+      "Pilih satu Kartu untuk ",
+      "Jiplak "
     ]
   },
   "HiddenChamberAction": {
@@ -695,7 +702,8 @@
       "Nilai Tertinggi",
       "Option 6. DO NOT TRANSLATE",
       "Teman",
-      "Global"
+      "Global",
+      "Watcher"
     ]
   },
   "LeaderboardsScreen": {
@@ -742,7 +750,7 @@
     "TEXT": [
       "Angkat",
       "Mulai pertarungan dengan +1 Daya. (Hingga 3)",
-	  ""
+      ""
     ]
   },
   "MainMenuScreen": {
@@ -823,7 +831,9 @@
       "Spesial",
       "Ubah permainanmu dengan mode pengubah unik.",
       "Ubah pengaturan kontrol",
-      "Ubah pengaturan grafis, audio dan permainan"
+      "Ubah pengaturan grafis, audio dan permainan",
+      "Labolatorium Ramuan",
+      "Amati berbagai ramuan yang dapat ditemukan di Spire"
     ]
   },
   "MerchantImageTextNotInGame": {
@@ -963,8 +973,11 @@
   },
   "Rest Option": {
     "TEXT": [
-
-	  ""
+      "",
+      "Pulihkan dengan 100% dari maks HP (",
+      " HP dari ",
+      "Pulihkan dengan 30% dari maks HP (",
+      ""
     ]
   },
   "RestartForChangesEffect": {
@@ -1039,7 +1052,7 @@
       "#bPeningkatan %s",
       "#bTransformasi %s",
       "#rKehilangan %s",
-	  "#bMengingat"
+      "#bMengingat"
     ]
   },
   "RunHistoryMonsterNames": {
@@ -1072,7 +1085,7 @@
       "(Bekas) Flame Bruiser",
       "(Bekas) Budak dan Parasit",
       "(Bekas) Laroke dan Mystik",
-	  "Tameng dan Tombak"
+      "Tameng dan Tombak"
     ]
   },
   "RunHistoryScreen": {
@@ -1111,7 +1124,8 @@
       "Hanya Tantangan Harian",
       "Kode: %s",
       "Kode Spesial: %s",
-      "M/d/yyyy. h:mm a"
+      "M/d/yyyy. h:mm a",
+      "Watcher"
     ]
   },
   "SeedPanel": {
@@ -1165,7 +1179,7 @@
       "Tidak cukup #rEnergi.",
       "Tidak cukup #rCharge.",
       "Aku tidak bisa memainkan NL kartu ini.",
-	  "Gambar Beta"
+      "Gambar Beta"
     ]
   },
   "SingleViewRelicPopup": {
@@ -1321,7 +1335,7 @@
       "Emas Tersisa",
       "Bonus HP",
       "Kemenangan!"
-      ]
+    ]
   },
   "Period": {
     "TEXT": [
@@ -1333,7 +1347,8 @@
       "Gambar Kartu Beta Ironclad Terbuka!",
       "Gambar Kartu Beta Silent Terbuka!",
       "Gambar Kartu Beta Defect Terbuka!",
-      "Semua Gambar Kartu Beta Terbuka!"
+      "Semua Gambar Kartu Beta Terbuka!",
+      "Gambar Kartu  Beta Watcher Terbuka"
     ]
   },
   "RichPresence": {
@@ -1353,6 +1368,22 @@
   "WishAction": {
     "TEXT": [
       "Pilih 1 Kartu untuk dimainkan."
+    ]
+  },
+  "SignatureMoveMessage": {
+    "TEXT": [
+      "Hanya bisa digunakan jika kartu ini satu-satunya kartu #rSerang di tanganku!"
+    ]
+  },
+  "PotionViewScreen": {
+    "TEXT": [
+      "Balik",
+      "Biasa:",
+      "Ramuan-ramuan yang paling umum di Spire.",
+      "Jarang:",
+      "Ramuan-ramuan lebih ampuh yang sedikit lebih tidak umum.",
+      "Langka:",
+      "Ramuan-ramuan unik dan ampuh yang sangat susah untuk ditemui."
     ]
   }
 }

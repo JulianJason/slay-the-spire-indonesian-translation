@@ -351,7 +351,8 @@
   "Fire Breathing": {
     "NAME": "Napas Api",
     "DESCRIPTIONS": [
-      "Setiap kali kamu mengambil kartu #yStatus atau #yKutuk. Beri #b"
+      "Setiap kali kamu mengambil kartu #yStatus atau #yKutuk. Beri #b",	
+      " damage ke SEMUA musuh."
     ]
   },
   "Flame Barrier": {
@@ -755,7 +756,8 @@
     "NAME": "Ritual",
     "DESCRIPTIONS": [
       "Pada akhir gilirannya, dapatkan #b",
-      " #yDaya."
+      " #yDaya.",	
+      "Pada akhir gilirannya, dapatkan #b"
     ]
   },
   "Rupture": {
@@ -1116,24 +1118,24 @@
   },
   "WireheadingPower": {
     "NAME": "Ramalan",
-	"DESCRIPTIONS": [
-    "Di awal giliranmu, #yGali #b",
-    "."
-	]
+    "DESCRIPTIONS": [
+      "Di awal giliranmu, #yGali #b",
+      "."
+    ]
   },
   "Vault": {
     "NAME": "Salto",
-  "DESCRIPTIONS": [
-    "Terima #b",
-    " damage di awal giliran berikutmu."
-  ]
+    "DESCRIPTIONS": [
+      "Terima #b",
+      " damage di awal giliran berikutmu."
+    ]
   },
   "FlowPower": {
     "NAME": "DEPRECATED Kuasa Aliran",
     "DESCRIPTIONS": [
       "Setiap kali kamu memainkan sebuah Serangan, dapatkan #b",
       " #yDaya sementara. setiap kali kamu memainkan sebuah Jurus, dapatkan #b,",
-	  " #yKetangkasan sementara."
+      " #yKetangkasan sementara."
     ]
   },
   "EstablishmentPower": {
@@ -1141,29 +1143,29 @@
     "DESCRIPTIONS": [
     "Setiap kali kartu #yDitahan, kurangi harganya dengan #b",
     "."
-	]
+    ]
   },
   "DevotionPower": {
     "NAME": "Kesetiaan",
     "DESCRIPTIONS": [
     "Di setiap awal giliran, dapatkan #b",
     " #yMantra."
-	]
+    ]
   },
   "BlockReturnPower": {
     "NAME": "Blok Ulang",
     "DESCRIPTIONS": [
     "ketika diserang, kamu mendapatkan #b",
     " #yBlok."
-  ]
+    ]
   },
   "BattleHymn": {
     "NAME": "Iringan Peperangan",
     "DESCRIPTIONS": [
-     "Di awal giliranmu, tambahkan #b",
-     " #yHujat ke tanganmu.",
-     " #yHujat ke tanganmu."
-  ]
+      "Di awal giliranmu, tambahkan #b",
+      " #yHujat ke tanganmu.",
+      " #yHujat ke tanganmu."
+    ]
   },
   "FreeAttackPower": {
     "NAME": "Serangan Gratis",
@@ -1294,6 +1296,21 @@
     "NAME": "Bagaikan Air",
     "DESCRIPTIONS": [
       "Di akhir giliranmu, bila kamu sedang #yTeduh, dapatkan #b",
+      " #yBlok."
+    ]
+  },
+  "Study": {
+    "NAME": "Mendalami",
+    "DESCRIPTIONS": [
+      "Do akhir giliranmu,acak #b",
+      " #yWawasan ke dalam dek ambilmu.",
+      " #yWawasan ke dalam dek ambilmu."
+    ]
+  },
+  "Nirvana": {
+    "NAME": "Nirvana",
+    "DESCRIPTIONS": [
+      "Setiap kali kamu Gali, dapatkan #b",
       " #yBlok."
     ]
   }

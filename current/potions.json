@@ -10,7 +10,7 @@
     "NAME": "Ramuan Serangan",
     "DESCRIPTIONS": [
       "Pilih #b1 dari #b3 kartu #ySerangan acak untuk ditambah ke tangan, harganya #b0 giliran ini.",
-	  "Pilih #b1 dari #b3 kartu #ySerangan acak dan tambah #b2 ke tangan, harganya #b0 giliran ini."
+      "Pilih #b1 dari #b3 kartu #ySerangan acak dan tambah #b2 ke tangan, harganya #b0 giliran ini."
     ]
   },
   "Block Potion": {
@@ -75,7 +75,7 @@
     "NAME": "Peri dalam Botol",
     "DESCRIPTIONS": [
       "Ketika kamu mati, sembuhkan ke #b",
-	  "% dari HP Maksimum dan buang ramuan ini."
+      "% dari HP Maksimum dan buang ramuan ini."
     ]
   },
   "FearPotion": {
@@ -151,7 +151,7 @@
     "NAME": "Ramuan Kekuatan",
     "DESCRIPTIONS": [
       "Pilih #b1 dari #b3 kartu #yKekuatan acak untuk ditambah ke tangan, harganya #b0 giliran ini.",
-	  "Pilih #b1 dari #b3 kartu #yKekuatan acak dan tambah #b2 ke tangan, harganya #b0 giliran ini."
+      "Pilih #b1 dari #b3 kartu #yKekuatan acak dan tambah #b2 ke tangan, harganya #b0 giliran ini."
     ]
   },
   "Regen Potion": {
@@ -166,14 +166,14 @@
     "NAME": "Ramuan Kemampuan",
     "DESCRIPTIONS": [
       "Pilih #b1 dari #b3 kartu #yKemampuan acak untuk ditambah ke tangan, harganya #b0 giliran ini.",
-	  "Pilih #b1 dari #b3 kartu #yKemampuan acak dan tambah #b2 ke tangan, harganya #b0 giliran ini."
+      "Pilih #b1 dari #b3 kartu #yKemampuan acak dan tambah #b2 ke tangan, harganya #b0 giliran ini."
     ]
   },
   "SmokeBomb": {
     "NAME": "Bom Asap",
     "DESCRIPTIONS": [
       "Kabur dari pertarungan selain Bos. Tidak menerima hadiah.",
-	  "Aku terkepung!"
+      "Aku terkepung!"
     ]
   },
   "SneckoOil": {
@@ -266,7 +266,7 @@
     "NAME": "Intisari Kegelapan",
     "DESCRIPTIONS": [
       "#ySalur #b",
-	  " #yKegelapan untuk setiap petak Orb."
+      " #yKegelapan untuk setiap petak Orb."
     ]
   },
   "BottledMiracle": {
@@ -292,9 +292,9 @@
   "LiquidMemories": {
     "NAME": "Kenangan Cair",
     "DESCRIPTIONS": [
-	  "Mainkan sebuah kartu dari dek buang dan balikkan ke tangan. harganya #b0 di giliran ini.",
+      "Mainkan sebuah kartu dari dek buang dan balikkan ke tangan. harganya #b0 di giliran ini.",
       "Pilih #b",
-	  " kartu dari dek buang dan balikkan ke tangan. Harganya #b0 di giliran ini."
+      " kartu dari dek buang dan balikkan ke tangan. Harganya #b0 di giliran ini."
     ]
   },
   "CultistPotion": {

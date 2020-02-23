@@ -152,8 +152,8 @@
     "RETAIN": {
       "NAMES": [
         "tahan",
-		"tahan",
-		"ditahan"
+        "tahan",
+        "ditahan"
       ],
       "DESCRIPTION": "Kartu yang ditahan tidak dibuang pada akhir giliran."
     },
@@ -289,7 +289,7 @@
     "PRAYER": {
       "NAMES": [
         "mantra",
-		"lewat kekerasan"
+        "lewat kekerasan"
       ],
       "DESCRIPTION": "Ketika kamu memperoleh #b10 #yMantra, masuk #yKeilahian."
     },

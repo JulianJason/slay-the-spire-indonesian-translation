@@ -655,7 +655,8 @@
     "NAME": "Pelahap Waktu",
     "DIALOG": [
       "~Ah...~ NL ~..teman bicara...~",
-      "~Dasar Bodoh..~ NL @DASAR BODOH!@"
+      "~Dasar Bodoh..~ NL @DASAR BODOH!@",
+      "~Ku tidak....~ NL ~...pernah suka..~ NL ~..denganmu...~"
     ]
   },
   "TorchHead": {
@@ -682,7 +683,7 @@
     ],
     "NAME": "Tameng Spire",
     "DIALOG": [
-	  ""
+      ""
     ]
   },
   "SpireSpear": {
