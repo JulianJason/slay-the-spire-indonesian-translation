@@ -1804,7 +1804,7 @@
     "DESCRIPTION": "Di akhir giliranmu, Berikan !M! damage ke SEMUA musuh."
   },
   "Vengeance": {
-    "NAME": "Amarah Mendidih",
+    "NAME": "Dendam",
     "DESCRIPTION": "Di awal giliranmu, masuk Amarah dan ambil !M! Kartu"
   },
   "PathToVictory": {
@@ -1826,7 +1826,7 @@
     "UPGRADE_DESCRIPTION": ""
   },
   "Indignation": {
-    "NAME": "Kejengkelan",
+    "NAME": "Kegeraman",
     "DESCRIPTION": "Bila kamu dalam Amarah, terapkan !M! Rentan ke SEMUA musuh, jika tidak, masuk Amarah."
   },
   "BecomeAlmighty": {
@@ -1838,7 +1838,7 @@
     "DESCRIPTION": "Dapatkan !M! *Baja."
   },
   "FameAndFortune": {
-    "NAME": "Fame and Fortune",
+    "NAME": "Ketenaran dan Tahta",
     "DESCRIPTION": "Gain !M! Gold."
   },
   "ConjureBlade": {
