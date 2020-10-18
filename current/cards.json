@@ -950,7 +950,7 @@
   },
   "Rip and Tear": {
     "NAME": "Cabik dan Robek",
-    "DESCRIPTION": "Beri !D! damage ke sebuah musuh acak !M! kali."
+    "DESCRIPTION": "Beri !D! damage ke sebuah musuh secara acak !M! kali."
   },
   "Rupture": {
     "NAME": "Meledak Pecah",
@@ -965,8 +965,8 @@
     "DESCRIPTION": "Beri !D! damage. NL Ambil !M! kartu. NL Buang SEMUA kartu yang diambil dimana harganya tidak 0."
   },
   "Searing Blow": {
-    "NAME": "Pukulan Berapi",
-    "DESCRIPTION": "Beri !D! damage. NL Dapat Ditiingkatkan berapa kalipun."
+    "NAME": "Serangan Membara",
+    "DESCRIPTION": "Beri !D! damage. NL Dapat Ditingkatkan berapa kalipun."
   },
   "Second Wind": {
     "NAME": "Napas Baru",
@@ -1011,7 +1011,7 @@
     "DESCRIPTION": "Letakkan sebuah kartu dari tangan ke atas dek ambil. NL Harganya 0 hingga kartu itu dimainkan."
   },
   "Sever Soul": {
-    "NAME": "Memutus Jiwa",
+    "NAME": "Membelah Jiwa",
     "DESCRIPTION": "Hangus SEMUA kartu bukan Serangan di tangan. NL Beri !D! damage."
   },
   "Shame": {
